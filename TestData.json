@@ -1,0 +1,4326 @@
+{
+   "GiftGiverGetRegistryItems":{  
+      "SIT":{  
+         "US":{  
+            "RegistryID":"520647720",
+            "RegistryName":"Baby",
+            "EventDate":"08/25/2018"
+         },
+         "BABY":{  
+            "RegistryID":"520647720",
+            "RegistryName":"Baby",
+            "EventDate":"08/25/2018"
+         },
+         "CA":{  
+            "RegistryID":"520647720",
+            "RegistryName":"Baby",
+            "EventDate":"08/25/2018"
+         }
+      },
+      "QA":{  
+         "US":{  
+            "RegistryID":"520648488",
+            "RegistryName":"Baby",
+            "EventDate":"08/25/2018"
+         },
+         "BABY":{  
+            "RegistryID":"520648488",
+            "RegistryName":"Baby",
+            "EventDate":"08/25/2018"
+         },
+         "CA":{  
+            "RegistryID":"520647720",
+            "RegistryName":"Baby",
+            "EventDate":"08/25/2018"
+         }
+      },
+      "DEV":{  
+         "US":{  
+            "RegistryID":"520648488",
+            "RegistryName":"Baby",
+            "EventDate":"08/25/2018"
+         },
+         "BABY":{  
+            "RegistryID":"520648488",
+            "RegistryName":"Baby",
+            "EventDate":"08/25/2018"
+         },
+         "CA":{  
+            "RegistryID":"520647720",
+            "RegistryName":"Baby",
+            "EventDate":"08/25/2018"
+         }
+      }
+   },
+     
+"TYM_Data":{  
+      "SIT":{  
+         "US":{  
+            "RegistryID":"543210958",
+            "Sku_ID":"12338970",
+            "Sku_title":"simplehuman polished stainless steel fingerprint-proof 4-1/2-liter round wastebasket",
+            "Name":"sachin gupta",
+            "Price":"$ 19.99",
+            "Quantity":"1"
+         },
+         "BABY":{  
+            "RegistryID":"543210958",
+            "Sku_ID":"12338970",
+            "Sku_title":"simplehuman polished stainless steel fingerprint-proof 4-1/2-liter round wastebasket",
+            "Name":"sachin gupta",
+            "Price":"$ 19.99",
+            "Quantity":"1"
+         },
+         "CA":{  
+            "RegistryID":"543210958",
+            "Sku_ID":"12338970",
+            "Sku_title":"simplehuman polished stainless steel fingerprint-proof 4-1/2-liter round wastebasket",
+            "Name":"sachin gupta",
+            "Price":"$ 19.99",
+            "Quantity":"1"
+         }
+      },
+      "QA":{  
+         "US":{  
+            "RegistryID":"543210958",
+            "Sku_ID":"12338970",
+            "Sku_title":"simplehuman polished stainless steel fingerprint-proof 4-1/2-liter round wastebasket",
+            "Name":"sachin gupta",
+            "Price":"$ 19.99",
+            "Quantity":"1"
+         },
+         "BABY":{  
+            "RegistryID":"543210958",
+            "Sku_ID":"12338970",
+            "Sku_title":"simplehuman polished stainless steel fingerprint-proof 4-1/2-liter round wastebasket",
+            "Name":"sachin gupta",
+            "Price":"$ 19.99",
+            "Quantity":"1"
+         },
+         "CA":{  
+            "RegistryID":"543210958",
+            "Sku_ID":"12338970",
+            "Sku_title":"simplehuman polished stainless steel fingerprint-proof 4-1/2-liter round wastebasket",
+            "Name":"sachin gupta",
+            "Price":"$ 19.99",
+            "Quantity":"1"
+         }
+      },
+      "DEV":{  
+         "US":{  
+            "RegistryID":"543210958",
+            "Sku_ID":"12338970",
+            "Sku_title":"simplehuman polished stainless steel fingerprint-proof 4-1/2-liter round wastebasket",
+            "Name":"sachin gupta",
+            "Price":"$ 19.99",
+            "Quantity":"1"
+         },
+         "BABY":{  
+            "RegistryID":"543210958",
+            "Sku_ID":"12338970",
+            "Sku_title":"simplehuman polished stainless steel fingerprint-proof 4-1/2-liter round wastebasket",
+            "Name":"sachin gupta",
+            "Price":"$ 19.99",
+            "Quantity":"1"
+         },
+         "CA":{  
+            "RegistryID":"543210958",
+            "Sku_ID":"12338970",
+            "Sku_title":"simplehuman polished stainless steel fingerprint-proof 4-1/2-liter round wastebasket",
+            "Name":"sachin gupta",
+            "Price":"$ 19.99",
+            "Quantity":"1"
+         }
+      }
+   },
+   
+"CMSUserdata":
+[
+	{
+		"usr_desc":"CMS_Author"
+		"username":"admin"
+		"password":"admin"
+	},
+	{
+		"usr_desc":"CMS_Reviewer"
+		"username":"admin"
+		"password":"admin"
+	},
+		{
+		"usr_desc":"CMS_Publisher"
+		"username":"admin"
+		"password":"admin"
+	},
+],
+"EmailParam":{
+"senderEmail":"SenderEmail@yahoo.com",
+"recipientEmail":"RecipientEmail@yahoo.com",
+"message":"My Rest API response",
+},
+"personalizedData":[
+  "currencySymbol",
+  "displayShipMsg",
+  "doubleKatoriItemPrice",
+  "doubleKatoriPersonalizedPrice",
+  "errorExist",
+  "errorMsg",
+  "katoriItemPrice",
+  "katoriPersonlizedPrice",
+  "pdpRedirectURL",
+  "personalisationType",
+  "shipMsgFlag"
+],
+"profileRegistryListKeys":{  
+      "us":[ 
+      "alternatePhone",
+      "checklistname",
+      "coRegistrantFirstName",
+      "coRegistrantLastName",
+      "eventCode",
+      "eventDate",
+      "eventType",
+      "isPublic",
+      "poBoxAddress",
+      "primaryRegistrantFirstName",
+      "primaryRegistrantLastName",
+      "registryId",
+      "schoolId",
+      "showerDate",
+      "status",
+      "thresholdMsg"
+      ],
+      "baby":[ 
+      "alternatePhone",
+      "checklistname",
+      "coRegistrantFirstName",
+      "coRegistrantLastName",
+      "eventCode",
+      "eventDate",
+      "eventType",
+      "isPublic",
+      "poBoxAddress",
+      "primaryRegistrantFirstName",
+      "primaryRegistrantLastName",
+      "registryId",
+      "schoolId",
+      "showerDate",
+      "status",
+      "thresholdMsg"
+      ],
+     "ca":[ 
+       "alternatePhone",
+      "checklistname",
+      "coRegistrantFirstName",
+      "coRegistrantLastName",
+      "eventCode",
+      "eventDate",
+      "eventType",
+      "isPublic",
+      "poBoxAddress",
+      "primaryRegistrantFirstName",
+      "primaryRegistrantLastName",
+      "registryId",
+      "schoolId",
+      "showerDate",
+      "status",
+      "thresholdMsg"
+      ]
+},
+"RegistryTypes":{  
+      "us":{  
+         "Wedding":"BRD",
+         "Commitment Ceremony":"COM",
+         "College/University":"COL",
+         "Housewarming":"HSW",
+         "Anniversary":"ANN",
+         "Baby":"BA1",
+         "Birthday":"BIR",
+         "Retirement":"RET",
+         "Other":"OTH"
+      },
+      "baby":{  
+         "Baby":"BA1",
+         "Birthday":"BR1",
+         "Other":"OT1"
+      },
+      "ca":{  
+         "Wedding":"BRD",
+         "Commitment Ceremony":"COM",
+         "College/University":"COL",
+         "Housewarming":"HSW",
+         "Anniversary":"ANN",
+         "Baby":"BA1",
+         "Birthday":"BIR",
+         "Retirement":"RET",
+         "Other":"OTH"
+      }
+  },
+ "RegistryInputsFields":{  
+      "Wedding":
+      [
+      "CoRegistrantEmail", 
+      "CoRegistrantFirstName",
+      "CoRegistrantLastName", 
+      "MobileNumber",
+      "PhoneNumber", 
+      "confirmPassword",
+      "eventDate",
+      "favoriteStore", 
+      "futureShippingDate",
+      "networkAffiliation",
+      "numberOfGuests", 
+      "showContactAddress", 
+      "showFutureShippingAddr",
+      "showShippingAddress", 
+      "showerDate",
+      "useContactAddrAsShippingAddr"
+       ],
+       "Baby": 
+       [
+      "CoRegistrantEmail", 
+      "CoRegistrantFirstName",
+      "CoRegistrantLastName", 
+      "MobileNumber",
+      "PhoneNumber", 
+      "babyExpectedArivalDate",
+      "babyGender", 
+      "babyName",
+      "confirmPassword",
+      "favoriteStore", 
+      "futureShippingDate",
+      "networkAffiliation",
+      "nurseryTheme", 
+      "showContactAddress", 
+      "showFutureShippingAddr",
+      "showShippingAddress", 
+      "showerDate",
+      "useContactAddrAsShippingAddr"
+      ],
+      "Birthday":
+       [
+      "CoRegistrantEmail", 
+      "CoRegistrantFirstName",
+      "CoRegistrantLastName", 
+      "MobileNumber",
+      "PhoneNumber",      
+      "confirmPassword",
+      "eventDate",
+      "favoriteStore", 
+      "futureShippingDate",
+      "networkAffiliation",
+      "numberOfGuests", 
+      "showContactAddress", 
+      "showFutureShippingAddr",
+      "showShippingAddress", 
+      "useContactAddrAsShippingAddr"
+      ],
+      "Retirement":
+       [
+      "CoRegistrantEmail", 
+      "CoRegistrantFirstName",
+      "CoRegistrantLastName", 
+      "PhoneNumber",      
+      "confirmPassword",
+      "eventDate",
+      "favoriteStore", 
+      "futureShippingDate",
+      "networkAffiliation",
+      "numberOfGuests", 
+      "showContactAddress", 
+      "showFutureShippingAddr",
+      "showShippingAddress", 
+      "useContactAddrAsShippingAddr"
+      ],
+       "Other":
+       [
+      "CoRegistrantEmail", 
+      "CoRegistrantFirstName",
+      "CoRegistrantLastName", 
+      "MobileNumber",
+      "PhoneNumber",      
+      "confirmPassword",
+      "eventDate",
+      "favoriteStore", 
+      "futureShippingDate",
+      "networkAffiliation",
+      "numberOfGuests", 
+      "showContactAddress", 
+      "showFutureShippingAddr",
+      "showShippingAddress", 
+      "useContactAddrAsShippingAddr"
+      ],
+       "Anniversary":
+       [
+      "CoRegistrantEmail", 
+      "CoRegistrantFirstName",
+      "CoRegistrantLastName", 
+      "MobileNumber",
+      "PhoneNumber",      
+      "confirmPassword",
+      "eventDate",
+      "favoriteStore", 
+      "futureShippingDate",
+      "networkAffiliation",
+      "numberOfGuests", 
+      "showContactAddress", 
+      "showFutureShippingAddr",
+      "showShippingAddress", 
+      "useContactAddrAsShippingAddr"
+      ],
+       "Housewarming":
+       [
+      "CoRegistrantEmail", 
+      "CoRegistrantFirstName",
+      "CoRegistrantLastName", 
+      "MobileNumber",
+      "PhoneNumber",      
+      "confirmPassword",
+      "eventDate",
+      "favoriteStore", 
+      "futureShippingDate",
+      "networkAffiliation",
+      "numberOfGuests", 
+      "showContactAddress", 
+      "showShippingAddress", 
+      "useContactAddrAsShippingAddr"
+      ],
+       "Commitment Ceremony":
+       [
+      "CoRegistrantEmail", 
+      "CoRegistrantFirstName",
+      "CoRegistrantLastName", 
+      "MobileNumber",
+      "PhoneNumber",      
+      "confirmPassword",
+      "eventDate",
+      "favoriteStore", 
+      "futureShippingDate",
+      "networkAffiliation",
+      "numberOfGuests", 
+      "showContactAddress", 
+      "showFutureShippingAddr",
+      "showShippingAddress", 
+      "showerDate",
+      "useContactAddrAsShippingAddr"
+      ],
+      "College/University":
+       [     
+      "MobileNumber",
+      "PhoneNumber",      
+      "college",
+      "confirmPassword",
+      "eventDate",
+      "favoriteStore", 
+      "futureShippingDate",
+      "networkAffiliation",
+      "showContactAddress", 
+      "showFutureShippingAddr",
+      "showShippingAddress", 
+      "useContactAddrAsShippingAddr"
+      ]      
+  },
+  "RegistryInputsFieldAttributes": [    
+      "autoCheck",
+      "displayOnForm", 
+      "fieldName", 
+      "id",
+      "inputType",
+      "registryOptionVO",
+      "requiredForListCreate",
+      "requiredInputCreate", 
+      "requiredInputUpdate",
+      "requiredToMakeRegPublic"
+       ],
+"AddressBookAPI":{
+  "US": [
+    {
+      "firstName": "Sachin",
+      "lastName": "Gupta",
+      "companyName": "Sapient1",
+      "address1": "131 Dartmouth Street",
+      "address2": "3rd Floor",
+      "city": "Boston",
+      "state": "MA",
+      "postalCode": "02116",
+      
+    },
+    {
+      "firstName": "Nitin",
+      "lastName": "Omere",
+      "companyName": "Sapient2",
+      "address1": "1515 N Courthouse Road",
+      "address2": "4th Floor",
+      "city": "Arlington",
+      "state": "VA",
+      "postalCode": "22201",
+      
+    },
+     {
+      "firstName": "@#!@#",
+      "lastName": "@#!@#",
+      "companyName": "@#!@#",
+      "address1": "@#!@#",
+      "address2": "@#!@#",
+      "city": "@#!@#",
+      "state": "@#!@#",
+      "postalCode": "@#!@#",
+      
+    },{
+      "firstName": "Vineet",
+      "lastName": "Kumar",
+      "companyName": "Sapient3",
+      "address1": "123 6th St.",
+      "address2": "8th Floor",
+      "city": "Melbourne",
+      "state": "FL",
+      "postalCode": "32904",
+      
+    }
+  ],
+  "BABY": [
+    {
+      "firstName": "Sachin",
+      "lastName": "Gupta",
+      "companyName": "Sapient1",
+      "address1": "131 Dartmouth Street",
+      "address2": "3rd Floor",
+      "city": "Boston",
+      "state": "MA",
+      "postalCode": "02116",
+      
+    },
+    {
+      "firstName": "Nitin",
+      "lastName": "Omere",
+      "companyName": "Sapient2",
+      "address1": "1515 N Courthouse Road",
+      "address2": "4th Floor",
+      "city": "Arlington",
+      "state": "VA",
+      "postalCode": "22201",
+      
+    },
+     {
+      "firstName": "@#!@#",
+      "lastName": "@#!@#",
+      "companyName": "@#!@#",
+      "address1": "@#!@#",
+      "address2": "@#!@#",
+      "city": "@#!@#",
+      "state": "@#!@#",
+      "postalCode": "@#!@#",
+      
+    },{
+      "firstName": "Vineet",
+      "lastName": "Kumar",
+      "companyName": "Sapient3",
+      "address1": "123 6th St.",
+      "address2": "8th Floor",
+      "city": "Melbourne",
+      "state": "FL",
+      "postalCode": "32904",
+      
+    }
+  ],
+  "CA": [
+    {
+      "firstName": "Sachin",
+      "lastName": "Gupta",
+      "companyName": "Sapient1",
+      "address1": "Bankers Hall West Tower",
+      "address2": "888 3 St SW",
+      "city": "CALGARY",
+      "state": "AB",
+      "postalCode": "T2P 5C5",
+      
+    },
+    {
+      "firstName": "Nitin",
+      "lastName": "Omere",
+      "companyName": "Sapient2",
+      "address1": "1515 N Courthouse Road",
+      "address2": "4th Floor",
+      "city": "Arlington",
+      "state": "VA",
+      "postalCode": "22201",
+      
+    },
+     {
+      "firstName": "@#!@#",
+      "lastName": "@#!@#",
+      "companyName": "@#!@#",
+      "address1": "@#!@#",
+      "address2": "@#!@#",
+      "city": "@#!@#",
+      "state": "@#!@#",
+      "postalCode": "@#!@#",
+      
+    },{
+      "firstName": "Vineet",
+      "lastName": "Kumar",
+      "companyName": "Sapient3",
+      "address1": "123 6th St.",
+      "address2": "8th Floor",
+      "city": "Melbourne",
+      "state": "FL",
+      "postalCode": "32904",
+      
+    }
+  ]
+},
+"FEOuserdata":
+[
+	{	
+		"usr_desc":"UsernameForUpdateProfile_desktop"
+		"username":"UpdateProfileUser12@test.com"
+		"password":"Hello123"
+	},
+{	
+		"usr_desc":"NoChallangeQuestionUser_desktop"
+		"username":"NoChallangeQuestionSet@gmail.com"
+		"password":"Hello123"
+	},
+	{	
+		"usr_desc":"NormalUser_desktop"
+		"username":"autotest23@automationtest.com"
+		"password":"Hello123"
+	},
+		{	
+		"usr_desc":"GiftCardBalanceUser_desktop"
+		"username":"testing3@automationtest.com"
+		"password":"Hello123"
+	},
+	{
+		"usr_desc":"NormalUser2_desktop"
+		"username":"autotest23@automationtest.com"
+		"password":"Hello123"
+	},
+	{
+		"usr_desc":"NormalUser3_desktop"
+		"username":"testing5@automationtest.com"
+		"password":"Hello123"
+	},
+	{
+		"usr_desc":"FooterLinksUser_desktop"
+		"username":"testing2@automationtest.com"
+		"password":"Hello123"
+	},
+	{
+		"usr_desc":"NormalUser4_desktop"
+		"username":"testing6@automationtest.com"
+		"password":"Hello123"
+	},
+	{
+		"usr_desc":"UserWithExistingShippingAddress_desktop"
+		"username":"checkout01@automationtest.com"
+		"password":"Hello123"
+	},
+	{
+		"usr_desc":"ExpressCheckout_desktop"
+		"username":"Expresscheckout01@automationtest.com"
+		"password":"Hello123"
+	}
+	{
+		"usr_desc":"userWithAddress_desktop"
+		"username":"IT28985a01MST531r1uh2@mailsac.com"
+		"password":"Hello123"
+	},
+	{
+		"usr_desc":"userWithOutAddress_desktop"
+		"username":"8I7hMu9112021T36TSa2r@mailsac.com"
+		"password":"Hello123"
+	},
+	{
+		"usr_desc":"HeaderFooterUser_desktop"
+		"username":"viraaj@gmail.com"
+		"password":"Abhinav1#"
+	},
+	{	
+		"usr_desc":"NormalUser_mobile"
+		"username":"autotest23@automationtest.com"
+		"password":"Hello123"
+	},
+		{	
+		"usr_desc":"GiftCardBalanceUser_mobile"
+		"username":"testing3@automationtest.com"
+		"password":"Hello123"
+	},
+	{
+		"usr_desc":"NormalUser2_mobile"
+		"username":"Feoautomationtest2@test.com"
+		"password":"Hello123"
+	},
+	{
+		"usr_desc":"NormalUser3_mobile"
+		"username":"testing5@automationtest.com"
+		"password":"Hello123"
+	},
+	{
+		"usr_desc":"FooterLinksUser_mobile"
+		"username":"testing2@automationtest.com"
+		"password":"Hello123"
+	},
+	{
+		"usr_desc":"NormalUser4_mobile"
+		"username":"testing6@automationtest.com"
+		"password":"Hello123"
+	},
+	{
+		"usr_desc":"userWithAddress_mobile"
+		"username":"IT28985a01MST531r1uh2@mailsac.com"
+		"password":"Hello123"
+	},
+	{
+		"usr_desc":"userWithOutAddress_mobile"
+		"username":"Feoautomationtest4@test.com"
+		"password":"Hello123"
+	},
+	{
+		"usr_desc":"HeaderFooterUser_mobile"
+		"username":"viraaj@gmail.com"
+		"password":"Abhinav1#"
+	},
+	{
+		"usr_desc":"userSmoke_desktop"
+		"username":"testing1@automationtest.com"
+		"password":"Hello123"
+	},
+	{
+		"usr_desc":"userSmoke_mobile"
+		"username":"testing1@automationtest.com"
+		"password":"Hello123"
+	},
+	{
+		"usr_desc":"RegistryUser_desktop"
+		"username":"Registryuser@automation.com"
+		"password":"Hello123"
+	},
+	{
+		"usr_desc":"RegistryUser_mobile"
+		"username":"Registryuser@automation.com"
+		"password":"Hello123"
+	},
+	{
+		"usr_desc":"WeddingRegistryUser_desktop"
+		"username":"491u0Shy44TIMaT25@mailsac.com"
+		"password":"Test@1234"
+	},
+	{
+		"usr_desc":"WeddingRegistryUser_mobile"
+		"username":"491u0Shy44TIMaT25@mailsac.com"
+		"password":"Test@1234"
+	},
+	
+	{
+		"usr_desc":"BabyRegistryUser_desktop"
+		"username":"I36S3yae0Md1T0W22@mailsac.com"
+		"password":"Test@1234"
+	},
+	{
+		"usr_desc":"BabyRegistryUser_mobile"
+		"username":"I36S3yae0Md1T0W22@mailsac.com"
+		"password":"Test@1234"
+	},
+	{	
+		"usr_desc":"NoChallangeQuestionUser_mobile"
+		"username":"NoChallangeQuestionSet@gmail.com"
+		"password":"Hello123"
+	}
+
+
+],
+"FEOAPIuserdata":
+[
+	{	
+		"usr_desc":"authenticatedUser_AddCreditCard"
+		"username":"AutomationTesting3@Testing.com"
+		"password":"Qwer@12345"
+	},
+		{	
+		"usr_desc":"authenticatedUser_ShippingMethod"
+		"username":"AutoTest4@AutomationTest.com"
+		"password":"Hello123"
+	},
+	{	
+		"usr_desc":"authenticatedUser_MiniCart"
+		"username":"AutoTest5@AutomationTest.com"
+		"password":"Hello123"
+	},	
+	{	
+		"usr_desc":"authenticated_DefaultCreditCard"
+		"username":"AutoTest6@AutomationTest.com"
+		"password":"Hello123"
+	},
+	{	
+		"usr_desc":"authenticatedUser_UpdateCreditCard"
+		"username":"AutoTest7@AutomationTest.com"
+		"password":"Hello123"
+	},
+	{	
+		"usr_desc":"authenticatedUser_AddItemToOrder"
+		"username":"AutoTest8@AutomationTest.com"
+		"password":"Hello123"
+	},	
+	{	
+		"usr_desc":"authenticatedUser_RemoveItemFromCart"
+		"username":"AutoTest10@AutomationTest.com"
+		"password":"Hello123"
+	},	
+	{	
+		"usr_desc":"authenticatedUser_AddShippingAddress"
+		"username":"AutoTest11@AutomationTest.com"
+		"password":"Hello123"
+	},
+	{	
+		"usr_desc":"authenticatedUser_AddBillingAddress"
+		"username":"AutoTest12@AutomationTest.com"
+		"password":"Hello123"
+	},
+		{	
+		"usr_desc":"authenticatedUser_UpdateCart"
+		"username":"AutoTest13@AutomationTest.com"
+		"password":"Hello123"
+	},
+	{	
+		"usr_desc":"authenticatedUser_CheckMultiShippingOrder"
+		"username":"AutoTest14@AutomationTest.com"
+		"password":"Hello123"
+	},
+	{	
+		"usr_desc":"authenticatedUser_StroreDetailsWithCommerceItems"
+		"username":"AutoTest15@AutomationTest.com"
+		"password":"Hello123"
+	},	
+	{	
+		"usr_desc":"authenticatedUser_SaveForLater"
+		"username":"AutoTest16@AutomationTest.com"
+		"password":"Hello123"
+	}
+],
+"userdata":
+[
+	{	
+		"usr_desc":"valid_user"
+		"username":"sanbbb602auto@yopmail.com"
+		"password":"Test@1234"
+	},
+	{
+		"usr_desc":"valid_user_Baby"
+		"username":"sanbaby602auto@yopmail.com"
+		"password":"Test@1234"
+	},
+	{
+		"usr_desc":"valid_user_CA"
+		"username":"sanca602auto@yopmail.com"
+		"password":"Test@1234"
+	},
+	{
+		"usr_desc":"invalid_user"
+		"username":"san602auto@yopmail.com"
+		"password":"Test@1234"
+	},
+	{
+		"usr_desc":"omniture_user"
+		"username":"07us01@sapient.com"
+		"password":"Test@1234"
+	}
+],
+"FEOgetCompositeServicedata":
+[
+	{
+		"attribute_category":"ProductBrand"
+		"attributues_name":["brandId","brandName","brandDescription"]
+		"attribute_path":"data.productBrand"
+	},
+    {
+		"attribute_category":"Root"
+		"attributues_name":["name","shortDescription","siteId"]
+		"attribute_path":"data"
+	},
+    {
+		"attribute_category":"ProductPrice"
+		"attributues_name":["inCartPrice",,"priceRangeDesc","inCartFlag"]
+		"attribute_path":"data.price"
+	},
+	{
+		"attribute_category":"ProductSku"
+		"attributues_name":["id","productId","shortDescription","longDescription","activeFlag","intlRestricted","zoomImage"]
+		"attribute_path":"data.skus"
+	},
+	{
+		"attribute_category":"ProductSkuAttributes"
+		"attributues_name":["attributeName","attributeDescription","placeHolder"]
+		"attribute_path":"data.skus.skuAttributes"
+	},
+		{
+		"attribute_category":"ProductReviewComposite"
+		"attributues_name":["totalReviewCount","externalId"]
+		"attribute_path":"data.reviews"
+	},
+	{
+		"attribute_category":"ProductReview"
+		"attributues_name":["averageOverallRating","totalReviewCount","externalId"]
+		"attribute_path":"data.bazaarVoiceProductDTO"
+	},
+	{
+		"attribute_category":"ProductSkuPriceAttributes"
+		"attributues_name":["salePrice","listPrice","labelCode","inCartFlag","inCartPrice"]
+		"attribute_path":"data.skus.price"
+	},
+	{
+		"attribute_category":"ProductVariantOptions"
+		"attributues_name":["colorCode","sizeCode"]
+		"attribute_path":"data.variantOptions"
+	}
+	],
+	"FEOInCorrectDataMapping":
+    [
+	{   "attriute_type":"IncorrectMapping"
+		"Attribute_Name":["seoURL","id","shortDescription","priceRangeDesc","salePriceRangeDesc","activeFlag","salePrice","inCartFlag","labelCode","inCartPrice","colorCode","sizeCode","listPrice"]
+		"Attribute_DatabaseName":["seo_url","sku_id","description","price_range_description","sale_price_range_description","disable_flag","sale_price","in_cart_flag","label_code","in_cart_price","color","size","list_price"]
+	}
+		],
+	"FEOInCorrectDataMappingCommon":
+    [
+	{   "attriute_type":"IncorrectMappingCommon"
+		"Attribute_Name":["in_cart_flag","in_cart_price","label_code","list_price","sale_price"]
+	}
+		],
+	"FEOgetRelatedCategoryServicedata":
+    [
+	{
+		"attribute_category":"CategoryList"
+		"attributues_name":["categoryId","displayName"]
+		"attribute_path":"data.categoryList"
+	},    
+	{
+		"attribute_category":"Root"
+		"attributues_name":["productId","name"]
+		"attribute_path":"data"
+	},
+	{
+		"attribute_category":"Category"
+		"attributues_name":["categoryId","siteId","displayName","description","longDescription","categoryType","isCollege","nodeType","isPhantomCategory","isDisabled","shopGuideId","smallImage","rank","gsImageOrientation"]
+		"attribute_path":"data"
+	},
+	{
+		"attribute_category":"Seo_Info"
+		"attributues_name":["tag_id","display_name","title","description","keywords","content_keys","footer_content"]
+		"attribute_path":"data.seoInfo"
+	},
+	],	
+	"FEORelatedCategoryInCorrectDataMapping":
+    [
+	{   "attriute_type":"IncorrectMapping"
+		"Attribute_Name":["categoryList","isDisabled","isPhantomCategory","rank","Seo_Info"]
+		"Attribute_DatabaseName":["parent_categories","disable_flag","phantom_category","cat_rank","seo"]
+	}
+		],
+	"FEOgetStoreServicedata":
+    [
+	{
+		"attribute_category":"Store"
+		"attributues_name":["storeId","storeType","commonName","address","city","state","postalCode","phone"]
+		"attribute_path":"data"
+	},    
+	],	
+	"FEOStoreServiceInCorrectDataMapping":
+    [
+	{   "attriute_type":"IncorrectMapping"
+		"Attribute_Name":["postalCode","isDisabled","isPhantomCategory","rank","Seo_Info"]
+		"Attribute_DatabaseName":["postal_cd","disable_flag","phantom_category","cat_rank","seo"]
+	}
+		],	
+	"FetchCreditCarddata":
+    [
+	{
+		"attribute_category":"CreditCard"
+		"attributues_name":["creditCardNumber","creditCardType","creditCardType","expirationMonth","expirationYear","nameOnCard"]
+		"attribute_path":"data.creditCards.."
+	},    
+	],	
+		"FetchCreateUserdata":
+    [
+	{
+		"attribute_category":"UserProfile"
+		"attributues_name":["creditCardNumber","creditCardType","creditCardType","expirationMonth","expirationYear","nameOnCard"]
+		"attribute_path":"component.profile."
+	}, 
+	{
+		"attribute_category":"UserCredit"
+		"attributues_name":["creditCardNumber","creditCardType","creditCardType","expirationMonth","expirationYear","nameOnCard"]
+		"attribute_path":"component.creditcards"
+	}   
+	],		
+		"AddNewCreditCarddata":
+    [
+	{
+		"attribute_category":"CreditCard"
+		"attributues_name":["creditCardNumber","creditCardType","creditCardType","expirationMonth","expirationYear"]
+		"attribute_path":"data.component.profile.creditCards"
+	},    
+	],	
+	"FEOgetStoreByListServicedata":
+    [
+	{
+		"attribute_category":"Store"
+		"attributues_name":["storeId","storeType","commonName","address","city","postalCode","phone"]
+		"attribute_path":"data."
+	},    
+	],
+	"FetchFooterComponentdata":
+    [
+	{
+		"attribute_category":"FooterComponent"
+		"attributues_name":["target","name","displayName","type","url"]
+	    "attribute_path":"columns.column1."
+		"attribute_pathColumn1":"columns.column1."
+		"attribute_pathColumn2":"columns.column2"
+		"attribute_pathColumn3":"columns.column3"
+		"attribute_pathBrands":"brands"
+		"attribute_pathSocial":"columns.social.links."
+	},    
+	],		
+  "FetchSingleCreditCarddataExpected":
+		[
+	{
+		"usr_desc":"userSingleCard"
+		"username":"sanbbb602auto@yopmail.com"
+		"creditcards":[
+	{
+		"creditCardNumber":"4111111111111111"
+		"creditCardType":"visa"
+		"expirationMonth":"11"
+		"expirationYear":"2020"
+		"nameOnCard":"Automation"
+		}
+	]
+	}
+],
+  "AddNewCreditCardData":
+		[
+	{   "card_desc":"ValidCardVisa"
+	    "nickname":"dsa"
+		"creditCardNumber":"4111111111111111"
+		"creditCardType":"Visa"
+		"expirationMonth":"11"
+		"expirationYear":"2020"
+		"newNickname":"newBillingAddress"
+		"nameOnCard":"Automation"
+		"makeBilling":"true"
+		"firstName":"Automation"
+		"lastName":"testing"
+		"address1":"1125 e campbell rd"
+		"address2":""
+		"city":"Richardson"
+		"state":"Texas"
+		"country":"US"
+		"postalCode":"75081"
+		"makePreferredSet":"false"
+	},
+	{   "card_desc":"ValidCardAmex"
+		"nickname":""
+		"creditCardNumber":"4111111111111111"
+		"ValidCreditCardType":"visa"
+		"expirationMonth":"11"
+		"expirationYear":"2020"
+		"newNickname":""
+		"makeBilling":"false"
+		"firstName":"automation"
+		"lastName":"testing"
+		"address1":"1125 e campbell rd"
+		"address2":""
+		"city":"Richardson"
+		"state":"Texas"
+		"country":"US"
+		"postalCode":"75081"
+		"makePreferredSet":"true"
+	},
+	{   "card_desc":"InValidCardVisa"
+		"nickname":"@#"
+		"creditCardNumber":"5111111111111111"
+		"creditCardType":"avisa"
+		"expirationMonth":"14"
+		"expirationYear":"2015"
+		"nameOnCard":"@@@"
+		"newNickname":"@#"
+		"makeBilling":")(*&^%!$#!#!$!%^^&@&@&*@**!("
+		"firstName":"1automation"
+		"lastName":"1testing"
+		"address1":")(*&^%!$#!#!$!%^^&@&@&*@**!("
+		"address2":""
+		"city":"@#richardson"
+		"state":"#$#"
+		"country":"Ina"
+		"postalCode":"1@#$23"
+		"makePreferredSet":"SS"
+	},
+	{   "card_desc":"InValidCardAmex"
+		"nickname":""
+		"creditCardNumber":"5111111111111111"
+		"ValidCreditCardType":"avisa"
+		"expirationMonth":"14"
+		"expirationYear":"2015"
+		"newNickname":""
+		"makeBilling":"true2"
+		"firstName":"1automation"
+		"lastName":"1testing"
+		"address1":"@#$ 1125 e campbell rd"
+		"address2":""
+		"city":"@#richardson"
+		"state":"1Texas"
+		"country":"1US"
+		"postalCode":"12345"
+		"makePreferredSet":"SS"
+	},	
+	{   "card_desc":"ValidCardVisaExt"
+	    "nickname":"dsa"
+		"creditCardNumber":"4111111111111111"
+		"creditCardType":"Visa"
+		"expirationMonth":"11"
+		"expirationYear":"2020"
+		"newNickname":"visa-1111"
+		"nameOnCard":"Automation"
+		"makeBilling":"true"
+		"firstName":"Automation"
+		"lastName":"testing"
+		"address1":"1125 e campbell rd"
+		"address2":""
+		"city":"Richardson"
+		"state":"Texas"
+		"country":"US"
+		"postalCode":"75081"
+		"makePreferredSet":"false"
+	},
+	{   "card_desc":"ValidCardVisaEdit"
+	    "nickname":"dsa"
+		"creditCardNumber":"4111111111111234"
+		"creditCardType":"Master"
+		"expirationMonth":"06"
+		"expirationYear":"2022"
+		"newNickname":"visa-1111"
+		"nameOnCard":"AutomationEdit"
+		"makeBilling":"true"
+		"firstName":"AutomationEdit"
+		"lastName":"testing"
+		"address1":"1124 e campbell rd"
+		"address2":""
+		"city":"Richardson"
+		"state":"Texas"
+		"country":"US"
+		"postalCode":"75081"
+		"makePreferredSet":"false"
+	}
+],
+"FetchMultipleCreditCardDataExpected":
+		[
+	{
+		"usr_desc":"userMutipleCardCard"
+		"username":"sanbbb602auto@yopmail.com"
+		"creditcards":[
+	{
+		"creditcardnumber":"4111111111111111"
+		"creditCardType":"visa"
+		"expirationMonth":"11"
+		"expirationYear":"2020"
+		"nameOnCard":"dasd"
+	},
+		{
+		"card_desc":"card2"
+		"creditcardnumber":"4111111111111234"
+		"creditCardType":"visa"
+		"expirationMonth":"11"
+		"expirationYear":"2020"
+		"nameOnCard":"dasd"
+	},
+	]
+	}
+],
+"getStoreInformationByList":
+		[
+	{
+		"storeId":"1"
+		"commonName":"commonName_1"
+		"address":"address_1"
+		"city":"city_1"
+		"state":"NY"
+		"postalCode":"11011"
+	},
+		{
+		"storeId":"3"
+		"commonName":"commonName_3"
+		"address":"address_3"
+		"city":"city_3"
+		"state":"NY"
+		"postalCode":"11013"
+	},
+	{
+		"storeId":"8"
+		"commonName":"commonName_8"
+		"address":"address_8"
+		"city":"city_8"
+		"state":"NY"
+		"postalCode":"11018"
+	},
+	{
+		"storeId":"2"
+		"commonName":"commonName_2"
+		"address":"address_2"
+		"city":"city_2"
+		"state":"NY"
+		"postalCode":"11012"
+	},
+	{
+		"storeId":"10"
+		"commonName":"commonName_10"
+		"address":"address_10"
+		"city":"city_10"
+		"state":"NY"
+		"postalCode":"110110"
+	}
+],
+"FetchFooterComponentDataExpected":
+[
+	{
+    "columns": [
+        {
+            "column1": [
+                {
+                    "target": "_self",
+                    "name": "customerService",
+                    "type": "list-style-section",
+                    "displayName": "CUSTOMER SERVICE",
+                    "url": "",
+                    "links": [
+                        {
+                            "target": "_blank",
+                            "name": "costPlusWM",
+                            "displayName": "New Testing Term Under Footer section TEST",
+                            "type": "list-style-connect",
+                            "url": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "column2": [
+                {
+                    "target": "_blank",
+                    "name": "exploreBeyond",
+                    "type": "list-style-section",
+                    "displayName": "Company Info",
+                    "url": "",
+                    "links": [
+                        {
+                            "target": "_blank",
+                            "name": "exploreBeyond",
+                            "displayName": "Bed Bath & Beyond Terms",
+                            "type": "list-style-section",
+                            "url": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "column3": [
+                {
+                    "target": "_self",
+                    "name": "",
+                    "type": "list-style-connect",
+                    "displayName": "Get In Touch",
+                    "url": "",
+                    "links": [
+                        {
+                            "target": "_self",
+                            "name": "",
+                            "displayName": "Phone: 1-800-GO-BEYOND (800-462-3966) | test",
+                            "type": "list-style-connect",
+                            "url": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "social": [
+                {
+                    "target": "_self",
+                    "name": "",
+                    "type": "list-style-social",
+                    "displayName": "LET'S CONNECT",
+                    "url": "",
+                    "links": [
+                        {
+                            "target": "_blank",
+                            "name": "youtube",
+                            "displayName": "Follow us on Youtube",
+                            "type": "list-style-social",
+                            "url": "https://www.youtube.com/bedbathandbeyond"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "brands": {
+        "target": "_self",
+        "name": "",
+        "type": "list-style-brands",
+        "displayName": "Explore Our Other Brands",
+        "url": "",
+        "links": [
+            {
+                "target": "_blank",
+                "name": "buybuyBaby",
+                "displayName": "Buy Buy Baby",
+                "type": "list-style-brands",
+                "url": "https://www.buybuybaby.com/"
+            },
+            {
+                "target": "_blank",
+                "name": "costPlusWM",
+                "displayName": "World Market",
+                "type": "list-style-brands",
+                "url": "http://www.worldmarket.com/"
+            }
+        ]
+    }
+        }
+    ],
+     "ShippingAddressData":
+		[
+	{   "add_desc":"ValidAddress"
+		"shipToAddressName":"true"
+	    "address.firstName":"TestAutomation"
+		"address.lastName":"Testing"
+		"address.companyName":"CompanySample"
+		"address.address1":"1124 e campbell rd"
+		"address.address2":""
+		"address.city":"Richardson"
+		"address.state":"TX"
+		"address.country":"US"
+		"address.postalCode":"75081"
+		"qasRecommendedAddress":"false"
+		"shippingOption":"3g"
+		"singleShippingGroupCheckout":"true"
+		"paypalAddressStatus":""
+		"isShippingRestrictionException":"false"
+		"removePorchService":"false"
+		
+	},
+	{   
+	    "add_desc":"InvalidAddress"
+	    "shipToAddressName":"##@true"
+	    "address.firstName":"1$%$Automation"
+		"address.lastName":"1$%$Automation"
+		"address.companyName":"1$%$Automation"
+		"address.address1":")(*&^%!$#!#!$!%^^&@&@&*@**!("
+		"address.address2":")(*&^%!$#!#!$!%^^&@&@&*@**!("
+		"address.city":"#$%Richardson"
+		"address.state":"@##TX"
+		"address.country":"India"
+		"address.postalCode":"@#75081"
+		"qasRecommendedAddress":"@#$false"
+		"shippingOption":"@#3g"
+		"singleShippingGroupCheckout":"2##true"
+		"paypalAddressStatus":"@###"
+		"isShippingRestrictionException":"3#@"
+		"removePorchService":"fa@##lse"
+	}
+],   
+  "BillingAddressData":
+		[
+	{   "add_desc":"ValidAddress"
+	    "billingAddress.firstName":"Automation"
+		"billingAddress.lastName":"Testing"
+		"billingAddress.companyName":"CompanySample"
+		"billingAddress.address1":"1125 e campbell rd"
+		"billingAddress.address2":""
+		"billingAddress.city":"Richardson"
+		"billingAddress.state":"TX"
+		"billingAddress.country":"US"
+		"billingAddress.postalCode":"75081"
+		"billingAddress.email":"gyaneshpareek@yahoo.com"
+		"billingAddress.phoneNumber":"1234567890"
+		"confirmedEmail":"gyaneshpareek@yahoo.com"
+		"userSelectedOption":"NEW"
+		"fromPayment":"true"
+		
+	},
+	{   
+	    "add_desc":"InvalidAddress"
+	    "billingAddress.firstName":"1$%$Automation"
+		"billingAddress.lastName":"!$%$Testing"
+		"billingAddress.companyName":"CompanySample@#$@@"
+		"billingAddress.address1":")(*&^%!$#!#!$!%^^&@&@&*@**!("
+		"billingAddress.address2":"^%!$#!#!$!%^^&@&@&*@**"
+		"billingAddress.city":"#$%Richardson"
+		"billingAddress.state":"#$Texas"
+		"billingAddress.country":"India"
+		"billingAddress.postalCode":"@#$75081"
+		"billingAddress.email":"false"
+		"billingAddress.phoneNumber":"@#$2020"
+		"confirmedEmail":"false"
+		"userSelectedOption":"3NEW"
+		"fromPayment":"NEW"
+		
+	}
+],   
+  "ShippingMethodData":
+		[
+	{   "add_desc":"ValidSingleShipping"
+	    "shippingmode":"singleShipping"
+		"state":"11112"
+		"zip":"IL"	
+		"sdd":"true"	
+	},
+	{   "add_desc":"ValidMultipleShipping"
+	    "shippingmode":"multiShipping"
+		"state":"11112"
+		"zip":"IL"	
+		"sdd":"true"	
+	},
+	{   
+	    "add_desc":"InvalidSingleShipping"
+	    "shippingmode":"@#$%Automation"
+		"state":"11#@12"
+		"zip":"@#"	
+		"sdd":"tr@ue"
+	}
+],    
+"SDDShippingMethodData":
+		[
+	{   "add_desc":"ValidShipping"
+	    "arg1":"10036"
+		"arg2":"singleShipping"	
+	},
+	{   
+	    "add_desc":"InvalidShipping"
+	    "arg1":"wq@#$"
+		"arg2":"sin1232gleShipping"	
+	}
+],    
+ "DynamicContentData":
+		[
+	{   "data_desc":"Valid"
+	    "key":"data2"
+		"type":"hero_promo"	
+		"id":"4741"	
+		"channel":"WEB"	
+		
+	},
+	{   
+	    "data_desc":"Invalid"
+	    "key":"10@#001"
+		"type":"hero@#@_promo"	
+		"id":"#123#@1"	
+		"channel":"#123#@1"	
+	},
+		{   
+		"data_desc":"Valid_Buying_Guide"
+	    "key":"data2"
+		"type":"buying_guide"	
+		"block_id":"4934-CMSBlock_87624"	
+		"style":"null"
+		"name":"OpenContainer"	
+		
+	},
+	{   
+	    "data_desc":"Invalid_Buying_Guide"
+	    "key":"10@#001"
+		"type":"@@123buying_guide"	
+		"block_id":"#123#@1"	
+		"style":"null"
+		"name":"OpenContainer"	
+	},
+	
+], 
+"FEOproductdata":
+[
+	{
+		"prod_Type":"RegularProductCASkuId"
+		"ProductIDOrName":"10413023018"
+	},
+	{
+		"prod_Type":"BuyingGuide_baby"
+		"ProductIDOrName":"1016143197"
+	},
+	{
+		"prod_Type":"RegularProductUSSkuId"
+		"ProductIDOrName":"1041302301"
+	},
+		{
+		"prod_Type":"RegularProductBabySkuId"
+		"ProductIDOrName":"10413023018"
+	},
+	{
+		"prod_Type":"IncartProductCASkuId"
+		"ProductIDOrName":"1010764122"
+	},
+		{
+		"prod_Type":"IncartProductUSSkuId"
+		"ProductIDOrName":"10413023018"
+	},
+			{
+		"prod_Type":"IncartProductBabySkuId"
+		"ProductIDOrName":"1010764122"
+	},
+	{
+		"prod_Type":"InvalidProductBabySkuId"
+		"ProductIDOrName":"1010764122"
+	},
+		{
+		"prod_Type":"InvalidProductUSSkuId"
+		"ProductIDOrName":"1010764122"
+	},
+	{
+		"prod_Type":"InvalidProductCASkuId"
+		"ProductIDOrName":"1010764122"
+	},
+	{
+		"prod_Type":"SingleSkuProductUSProductId"
+		"ProductIDOrName":"1013661030"
+	},
+	{
+		"prod_Type":"SingleSkuProductBabyProductId"
+		"ProductIDOrName":"1044323059"
+	},
+		{
+		"prod_Type":"FBTProductUSProductId"
+		"ProductIDOrName":"1046186386"
+	},
+	{
+		"prod_Type":"FBTProductBabyProductId"
+		"ProductIDOrName":"1041526125"
+	},
+	{
+		"prod_Type":"MultiSkuSizeProductUSProductId"
+		"ProductIDOrName":"41868645"
+	},{
+		"prod_Type":"MultiSkuSizeProductBabyProductId"
+		"ProductIDOrName":"61739734"
+	},
+		{
+		"prod_Type":"CollectionProductUSProductId"
+		"ProductIDOrName":"218771"
+	},
+	{
+		"prod_Type":"AccessoryProductUSProductId"
+		"ProductIDOrName":"102986"
+	},
+	
+		{
+		"prod_Type":"IncartProductUSProductId"
+		"ProductIDOrName":"10417205472"
+	},
+	{
+		"prod_Type":"InvalidProductUSProductId"
+		"ProductIDOrName":"1010764122"
+	},
+	{
+		"prod_Type":"InternationalRestrictedProductUSProductId"
+		"ProductIDOrName":"1010764122"
+	},
+	{
+		"prod_Type":"RatingAvailableUSProductId"
+		"ProductIDOrName":"1040602349"
+	},
+	{
+		"prod_Type":"RatingAvailableBABYProductId"
+		"ProductIDOrName":"1010764122"
+	},
+	{
+		"prod_Type":"RatingAvailableCAProductId"
+		"ProductIDOrName":"1010764122"
+	},
+	{
+		"prod_Type":"RatingUnavailableProductUSProductId"
+		"ProductIDOrName":"1040602324"
+	},
+	{
+		"prod_Type":"RatingUnavailableProductBABYProductId"
+		"ProductIDOrName":"1040602325"
+	},
+	{
+		"prod_Type":"RatingUnavailableProductCAProductId"
+		"ProductIDOrName":"1040602325"
+	},
+	{
+		"prod_Type":"InvalidRatingProductUSProductId"
+		"ProductIDOrName":"1040602328"
+	},
+	{
+		"prod_Type":"InvalidRatingProductBABYProductId"
+		"ProductIDOrName":"1040602329"
+	},
+	{
+		"prod_Type":"InvalidRatingProductCAProductId"
+		"ProductIDOrName":"1040602329"
+	},
+	{
+		"prod_Type":"RatingAvailableTBSUSProductId"
+		"ProductIDOrName":"1010764122"
+	},
+	{
+		"prod_Type":"RatingAvailableTBSBABYProductId"
+		"ProductIDOrName":"1010764122"
+	},
+	{
+		"prod_Type":"RatingAvailableTBSCAProductId"
+		"ProductIDOrName":"1010764122"
+	},
+	{
+		"prod_Type":"RatingUnavailableProductTBSUSProductId"
+		"ProductIDOrName":"1010764122"
+	},
+	{
+		"prod_Type":"RatingUnavailableProductTBSBABYProductId"
+		"ProductIDOrName":"1010764122"
+	},
+	{
+		"prod_Type":"RatingUnavailableProductTBSCAProductId"
+		"ProductIDOrName":"1010764122"
+	},
+	{
+		"prod_Type":"InvalidRatingProductTBSUSProductId"
+		"ProductIDOrName":"1040602329"
+	},
+	{
+		"prod_Type":"InvalidRatingProductTBSBABYProductId"
+		"ProductIDOrName":"1040602331"
+	},
+	{
+		"prod_Type":"InvalidRatingProductTBSCAProductId"
+		"ProductIDOrName":"1040602334"
+	},
+		{
+		"prod_Type":"InvalidRatingProductBothTBSUSProductId"
+		"ProductIDOrName":"1010764122"
+	},
+	{
+		"prod_Type":"InvalidRatingProductBothTBSBABYProductId"
+		"ProductIDOrName":"1040602333"
+	},
+	{
+		"prod_Type":"InvalidRatingProductBothTBSCAProductId"
+		"ProductIDOrName":"1040602335"
+	},
+	{
+		"prod_Type":"NonIncartProductUSProductId"
+		"ProductIDOrName":"10417205471"
+	},
+	{
+		"prod_Type":"RegularRelatedCategoryUSProductId"
+		"ProductIDOrName":"10417205471"
+	},
+	{
+		"prod_Type":"SingleSkuProductUSCategory"
+		"CategoryIDOrName":"101"
+	},
+		{
+		"prod_Type":"SingleSkuProductBABYCategory"
+		"CategoryIDOrName":"10417205471"
+	},
+	{
+		"prod_Type":"SingleSkuProductCACategory"
+		"CategoryIDOrName":"10417205471"
+	},
+    {
+		"prod_Type":"InvalidProductUSCategory"
+		"CategoryIDOrName":"188"
+	},
+	{
+		"prod_Type":"SingleSkuProductUSCategory"
+		"CategoryIDOrName":"101"
+	},
+	{
+		"prod_Type":"SkuDetailAPiSKU_Data"
+		"ProductIDOrName":"13621640"
+	},
+	{
+		"prod_Type":"SkuDetailAPi_Product_Data"
+		"ProductIDOrName":"110337"
+	},
+	{
+		"prod_Type":"SkuDetailAPiSKU_DataBaby"
+		"ProductIDOrName":"41526125"
+	},
+	{
+		"prod_Type":"SkuDetailAPi_Product_DataBaby"
+		"ProductIDOrName":"1041526125"
+	},
+	{
+		"prod_Type":"ProductDetailAPI_ProductId"
+		"ProductIDOrName":"106192"
+	},
+	{   
+	     "prod_Type":"MultiSkuSizeColorAndSize"
+	     "ProductIDOrName":"3244579"
+	},
+	{   
+	     "prod_Type":"ProductCollectionbaby"
+	     "ProductIDOrName":"238533"
+	},
+	
+	{   
+	     "prod_Type":"showMoreLinkProduct"
+	     "ProductIDOrName":"1047043442"
+	},
+	{   
+	     "prod_Type":"showMoreLinkProductBaby"
+	     "ProductIDOrName":"1042410850"
+	},
+	{   
+	     "prod_Type":"multiSkuWithDropdownColorOptions"
+	     "ProductIDOrName":"3176221"
+	},
+	{   
+	     "prod_Type":"multiSkuWithSizeDropdown_US"
+	     "ProductIDOrName":"201329"
+	},
+	{   
+	     "prod_Type":"multiSkuWithSizeDropdown_Baby"
+	     "ProductIDOrName":"3334394"
+	},
+	{   
+	     "prod_Type":"outOfStockSingleSKUUS"
+	     "ProductIDOrName":"1040947181"
+	},
+	{   
+	     "prod_Type":"outOfStockSingleSKUBaby"
+	     "ProductIDOrName":"1040830957"
+	},
+	{   
+	     "prod_Type":"outOfStockMultiSKUUS"
+	     "ProductIDOrName":"3309900"
+	},
+    {   
+	     "prod_Type":"outOfStockMultiSKUBaby"
+	     "ProductIDOrName":"3286239"
+	},
+	{   
+	     "prod_Type":"VDC"
+	     "ProductIDOrName":"3286295"
+	},
+	{
+		"prod_Type":"FeaturesSpecsMSKUData_US"
+	    "ProductIDOrName":"3256669"
+	},
+	{
+		"prod_Type":"FeaturesSpecsMSKUData_Baby"
+	    "ProductIDOrName":"3256669"
+	},
+	{
+		"prod_Type":"FeaturesSpecsSKUData_US"
+	    "ProductIDOrName":"1047043442"
+	},
+	{
+		"prod_Type":"FeaturesSpecsSKUData_Baby"
+	    "ProductIDOrName":"1047043442"
+	},
+	{   
+	     "prod_Type":"LTLUS"
+	     "ProductIDOrName":"1060731302"
+	},
+	{
+		"prod_Type":"LTLMultiSkuUS"
+		"ProductIDOrName":"3294990"
+	},
+	{   
+	     "prod_Type":"LTLBaby"
+	     "ProductIDOrName":"1060731302"
+	},
+	{
+		"prod_Type":"LTLMultiSkuBaby"
+		"ProductIDOrName":"115336"
+	},
+	{
+		"prod_Type":"AcessoryLeadLTL"
+		"ProductIDOrName":"3265450"
+	},
+	{
+		"prod_Type":"AcessoryChildLTL"
+		"ProductIDOrName":"3265450"
+	},
+	{
+		"prod_Type":"Katori_PY"
+		"ProductIDOrName":"1047424463"
+	},
+	{
+		"prod_Type":"Katori_PY_Baby"
+		"ProductIDOrName":"1060095701"
+	},
+	{
+		"prod_Type":"Katori_PB"
+		"ProductIDOrName":"1061462342"
+	},
+	{
+		"prod_Type":"Katori_PB_Baby"
+		"ProductIDOrName":"1061437685"
+	},
+	{
+		"prod_Type":"Katori_CR"
+		"ProductIDOrName":"3341821"
+	},
+	{
+		"prod_Type":"Katori_CR_Baby"
+		"ProductIDOrName":"3280088"
+	},
+	{
+		"prod_Type":"Accessories_with_Lead_LTL_Baby"
+		"ProductIDOrName":"3304007"
+	}
+	{
+		"prod_Type":"Accessories_with_Child_LTL_Baby"
+		"ProductIDOrName":"3304007"
+	}
+	{
+		"prod_Type":"Bopus_SingleSKU"
+		"ProductIDOrName":"100712"
+	},{
+		"prod_Type":"MultiSkuWithDropdownColorOptions_Baby"
+		"ProductIDOrName":""
+	},
+	{   
+	     "prod_Type":"Multi_Sku_Color_Size_Baby"
+	     "ProductIDOrName":"3273616"
+	},
+		{
+		"prod_Type":"SDD_SingleSKU"
+		"ProductIDOrName":"1016330370"
+	},
+	{
+		"prod_Type":"Bopus_SingleSKU"
+		"ProductIDOrName":"100712"
+	},
+	],
+"productdata":
+[
+	{
+		"prod_Type":"valid_prod"
+		"ProductIDOrName":"1010161681"
+	},
+	{
+		"prod_Type":"valid_prod_Baby"
+		"ProductIDOrName":"1041627037"
+	},
+	{
+		"prod_Type":"valid_prod_CA"
+		"ProductIDOrName":"1010161681"
+	},
+	{
+		"prod_Type":"invalid_prod"
+		"ProductIDOrName":"1000000000"
+	},
+	{
+		"prod_Type":"WriteAReview_US"
+		"ProductIDOrName":"1013138958"
+	},
+	{
+		"prod_Type":"WriteAReview_Baby"
+		"ProductIDOrName":"1014857052"
+	},
+	{
+		"prod_Type":"WriteAReview_CA"
+		"ProductIDOrName":"1014929860"
+	},
+	{
+		"prod_Type":"Regular"
+		"ProductIDOrName":"1017392310"
+	},
+	{
+		"prod_Type":"Regular_Baby"
+		"ProductIDOrName":"1017392310"
+	},
+	{
+		"prod_Type":"MappedChecklist"
+		"ProductIDOrName":"12830548"
+	},
+	{
+		"prod_Type":"Regular_CA"
+		"ProductIDOrName":"1014929860"
+	},
+	{
+		"prod_Type":"BOPUS"
+		"ProductIDOrName":"12338970"
+	},
+	{
+		"prod_Type":"BOPUS_Baby"
+		"ProductIDOrName":"1016404250"
+	},
+	{
+		"prod_Type":"BOPUS_CA"
+		"ProductIDOrName":"10161681"
+	},
+	{
+		"prod_Type":"Second_BOPUS"
+		"ProductIDOrName":"1013138958"
+	},
+	{
+		"prod_Type":"Second_BOPUS_Baby"
+		"ProductIDOrName":"1017275836"
+	},
+	{
+		"prod_Type":"Second_BOPUS_CA"
+		"ProductIDOrName":"12338970"
+	},
+	{
+		"prod_Type":"Accessory"
+		"ProductIDOrName":"3244134"
+	},
+	{
+		"prod_Type":"Accessory_Baby"
+		"ProductIDOrName":"3244134"
+	},
+	{
+		"prod_Type":"Accessory_CA"
+		"ProductIDOrName":"3244134"
+	},
+	{
+		"prod_Type":"LTL_Product"
+		"ProductIDOrName":"1045481307"
+	},
+	{
+		"prod_Type":"LTL_Product_Baby"
+		"ProductIDOrName":"1041010945"
+	},
+        {
+		"prod_Type":"Collection"
+		"ProductIDOrName":"204487" 
+	},
+		{
+		"prod_Type":"Collection_Baby"
+		"ProductIDOrName":"212143"
+	},
+		{
+		"prod_Type":"Collection_CA"
+		"ProductIDOrName":"204487"
+	},
+		{
+		"prod_Type":"MultiSKU"
+		"ProductIDOrName":"216598"
+	},
+	{
+		"prod_Type":"ViewMoreLinkProductTab_US"
+		"ProductIDOrName":"44194000"
+	},
+	{
+		"prod_Type":"ViewMoreLinkProductTab_Baby"
+		"ProductIDOrName":"1043989713"
+	},
+	{
+		"prod_Type":"ViewMoreLinkProductTab_CA"
+		"ProductIDOrName":"12338970"
+	},
+		{
+		"prod_Type":"Keyword"
+		"ProductIDOrName":"sheets"
+	},
+	
+	{
+		"prod_Type":"Keyword_Baby"
+		"ProductIDOrName":"sheets"
+	},
+	
+	{
+		"prod_Type":"Keyword_CA"
+		"ProductIDOrName":"sheets"
+	},
+	{
+		"prod_Type":"MultiSKU_Baby"
+		"ProductIDOrName":"40286358"
+	},
+	{
+		"prod_Type":"MultiSKU_CA"
+		"ProductIDOrName":"216598"
+	},
+	{ 
+	    "prod_Type":"InternationalRestrictedRegularBaby"
+	     "ProductIDOrName":"1042460435"
+	  },
+	{   
+	     "prod_Type":"InternationalRestrictedRegular"
+	     "ProductIDOrName":"1042460435"
+	},
+	{ 
+	    "prod_Type":"InternationalRestrictedCollectionBaby"
+	     "ProductIDOrName":"207828"
+	  },
+	{   
+	     "prod_Type":"InternationalRestrictedCollection"
+	     "ProductIDOrName":"121993"
+	},
+	{ 
+	    "prod_Type":"InternationalRestrictedAccessoryBaby"
+	     "ProductIDOrName":"3245224"
+	  },
+	{   
+	     "prod_Type":"InternationalRestrictedAccessory"
+	     "ProductIDOrName":"128747"
+	},
+	{ 
+	    "prod_Type":"InCart_YES_Was_SS_US"
+	     "ProductIDOrName":"1015125101"
+     },
+     { 
+	    "prod_Type":"InCart_YES_Was_SS_Baby"
+	     "ProductIDOrName":"1015125101"
+     },
+     { 
+	    "prod_Type":"InCart_YES_Was_SS_CA"
+	     "ProductIDOrName":"1015125101"
+     },
+	{ 
+	    "prod_Type":"InCart_YES_Was_EximPB_MS_US"
+	     "ProductIDOrName":"131048"
+     },
+     { 
+	    "prod_Type":"InCart_YES_Was_EximPB_MS_Baby"
+	     "ProductIDOrName":"131048"
+     },
+     { 
+	    "prod_Type":"InCart_YES_Was_EximPB_MS_CA"
+	     "ProductIDOrName":"131048"
+     },
+     { 
+	    "prod_Type":"InCart_YES_Orig_EximPY_MS_US"
+	     "ProductIDOrName":"131048"
+     },
+     { 
+	    "prod_Type":"InCart_YES_Orig_EximPY_MS_Baby"
+	     "ProductIDOrName":"131048"
+     },
+     { 
+	    "prod_Type":"InCart_YES_Orig_EximPY_MS_CA"
+	     "ProductIDOrName":"131048"
+     },
+     { 
+	    "prod_Type":"InCart_Yes_Null_SS_US"
+	     "ProductIDOrName":"1016316407"
+     },
+     { 
+	    "prod_Type":"InCart_Yes_Null_SS_Baby"
+	     "ProductIDOrName":"1016316407"
+     },
+     { 
+	    "prod_Type":"InCart_Yes_Null_SS_CA"
+	     "ProductIDOrName":"1016316407"
+     },
+     { 
+	    "prod_Type":"InCart_No_Was_SS_US"
+	     "ProductIDOrName":"1018796341"
+     },
+      { 
+	    "prod_Type":"InCart_No_Was_SS_CA"
+	     "ProductIDOrName":"1018796341"
+     },
+      { 
+	    "prod_Type":"InCart_No_Was_SS_Baby"
+	     "ProductIDOrName":"1018796341"
+     },
+	{ 
+	    "prod_Type":"InCart_No_Null_SS_US"
+	     "ProductIDOrName":"1044321116"
+     },
+     { 
+	    "prod_Type":"InCart_No_Null_SS_Baby"
+	     "ProductIDOrName":"1044321116"
+     },
+     { 
+	    "prod_Type":"InCart_No_Null_SS_CA"
+	     "ProductIDOrName":"1044321116"
+     },
+	{ 
+	    "prod_Type":"InCart_YES_Was_MS_US"
+	     "ProductIDOrName":"120530"
+     },
+     { 
+	    "prod_Type":"InCart_YES_Orig_Collection_SS_Baby"
+	     "ProductIDOrName":"215782"
+     },
+     { 
+	    "prod_Type":"InCart_YES_Orig_Collection_SS_US"
+	     "ProductIDOrName":"215782"
+     },
+     { 
+	    "prod_Type":"InCart_YES_Orig_Collection_SS_CA"
+	     "ProductIDOrName":"215782"
+     },
+      { 
+	    "prod_Type":"InCart_YES_Was_LTL_SS_Baby"
+	     "ProductIDOrName":"1040926162"
+     },
+       { 
+	    "prod_Type":"InCart_YES_Was_LTL_SS_CA"
+	     "ProductIDOrName":"1040926162"
+     },
+       { 
+	    "prod_Type":"InCart_YES_Was_LTL_SS_US"
+	     "ProductIDOrName":"1040926162"
+     },
+     { 
+	    "prod_Type":"InCart_YES_Was_MS_Baby"
+	     "ProductIDOrName":"120530"
+     },
+     { 
+	    "prod_Type":"InCart_YES_Was_MS_CA"
+	     "ProductIDOrName":"120530"
+     },
+	{ 
+	    "prod_Type":"InCart_YES_Orig_SS_US"
+	     "ProductIDOrName":"1015005602"
+     },
+     { 
+	    "prod_Type":"InCart_YES_Orig_SS_Baby"
+	     "ProductIDOrName":"1015005602"
+     },
+      { 
+	    "prod_Type":"InCart_YES_Orig_SS_CA"
+	     "ProductIDOrName":"1015005602"
+     },
+	{   
+	     "prod_Type":"VDC"
+	     "ProductIDOrName":"1040890609"
+	},
+	{   
+	     "prod_Type":"VDC_Baby"
+	     "ProductIDOrName":"1042350316"
+	},
+	{   
+	     "prod_Type":"VDC_CA"
+	     "ProductIDOrName":"1018847620"
+	},	
+	{   
+	     "prod_Type":"L2_Keyword"
+	     "ProductIDOrName":"sheet"
+	},
+	{ 
+	    "prod_Type":"L2_KeywordBaby"
+	     "ProductIDOrName":"sheet"
+	  },
+	{   
+	     "prod_Type":"L2_KeywordCA"
+	     "ProductIDOrName":"sheet"
+	},
+	{   
+	     "prod_Type":"Brand_Keyword"
+	     "ProductIDOrName":"Tow"
+	},
+	{ 
+	    "prod_Type":"Brand_KeywordBaby"
+	     "ProductIDOrName":"she"
+	  },
+	{   
+	     "prod_Type":"Brand_KeywordCA"
+	     "ProductIDOrName":"Tow"
+	},
+	{   
+	     "prod_Type":"Department_Keyword"
+	     "ProductIDOrName":"Tow"
+	},
+	{ 
+	    "prod_Type":"Department_KeywordBaby"
+	     "ProductIDOrName":"Tow"
+	  },
+	{   
+	     "prod_Type":"Department_KeywordCA"
+	     "ProductIDOrName":"Tow"
+	},
+	{   
+	     "prod_Type":"Keyword_Redirect_Text"
+	     "ProductIDOrName":"sachhhin"
+	},
+	{ 
+	    "prod_Type":"Keyword_Redirect_TextBaby"
+	     "ProductIDOrName":"nidhhi"
+	  },
+	{   
+	     "prod_Type":"Keyword_Redirect_TextCA"
+	     "ProductIDOrName":"cakeywordredirect"
+	},
+	{   
+	     "prod_Type":"Keyword_Redirect_Facet_Applied"
+	     "ProductIDOrName":"sachhhhinnnn"
+	},
+	{ 
+	    "prod_Type":"Keyword_Redirect_Facet_AppliedBaby"
+	     "ProductIDOrName":"nidhhhhhi"
+	  },
+	{   
+	     "prod_Type":"Keyword_Redirect_Facet_AppliedCA"
+	     "ProductIDOrName":"cakeywordredirectfacetapplied"
+	},
+	{ 
+	    "prod_Type":"Personalized_SingleSKU_PB"
+	     "ProductIDOrName":"1045102202"
+     },
+	{ 
+	    "prod_Type":"Personalized_SingleSKU_PB_Baby"
+	     "ProductIDOrName":"1045102202"
+     },
+     { 
+	    "prod_Type":"Personalized_SingleSKU_PB_CA"
+	     "ProductIDOrName":"1045102202"
+     },
+      { 
+	    "prod_Type":"Personalized_SingleSKU_PY"
+	     "ProductIDOrName":"1045529214"
+     },
+	{ 
+	    "prod_Type":"Personalized_SingleSKU_PY_Baby"
+	     "ProductIDOrName":"1047250109"
+     },
+     { 
+	    "prod_Type":"Personalized_SingleSKU_PY_CA"
+	     "ProductIDOrName":"1047250109"
+     },
+     { 
+	    "prod_Type":"Personalized_SingleSKU_CR"
+	     "ProductIDOrName":"1045529214"
+     },
+	{ 
+	    "prod_Type":"Personalized_SingleSKU_CR_Baby"
+	     "ProductIDOrName":"1045529214"
+     },
+     { 
+	    "prod_Type":"Personalized_SingleSKU_CR_CA"
+	     "ProductIDOrName":"1045529214"
+     },
+     { 
+	    "prod_Type":"Personalized_MultiSKU_PY"
+	     "ProductIDOrName":"3259067"
+     },
+	{ 
+	    "prod_Type":"Personalized_MultiSKU_PY_Baby"
+	     "ProductIDOrName":"3259067"
+     },
+     { 
+	    "prod_Type":"Personalized_MultiSKU_PY_CA"
+	     "ProductIDOrName":"3259067"
+     },
+     
+     { 
+	    "prod_Type":"partialSearchKeyword"
+	     "ProductIDOrName":"Tip Tap Toe"
+     },
+     
+    { 
+	    "prod_Type":"partialSearchKeyword_US"
+	     "ProductIDOrName":"Green Bean Bag"
+     },
+      { 
+	    "prod_Type":"partialSearchKeyword_CA"
+	     "ProductIDOrName":"Tip Tap Toe"
+     },
+     { 
+	    "prod_Type":"partialSearchKeyword_Baby"
+	     "ProductIDOrName":"Green Bean Bag"
+     },
+     { 
+	    "prod_Type":"Personalized_AccessoryLeadMultiSKU_CR"
+	     "ProductIDOrName":"206965"
+     },
+	{ 
+	    "prod_Type":"Personalized_AccessoryLeadMultiSKU_CR_Baby"
+	     "ProductIDOrName":"206965"
+     },
+     { 
+	    "prod_Type":"Personalized_AccessoryLeadMultiSKU_CR_CA"
+	     "ProductIDOrName":"206965"
+     },
+     { 
+	    "prod_Type":"Personalized_AccessoryChildSingleSKU_PB"
+	     "ProductIDOrName":"113259008"
+     },
+	{ 
+	    "prod_Type":"Personalized_AccessoryChildSingleSKU_PB_Baby"
+	     "ProductIDOrName":"113259008"
+     },
+     { 
+	    "prod_Type":"Personalized_AccessoryChildSingleSKU_PB_CA"
+	     "ProductIDOrName":"113259008"
+     },
+     { 
+	    "prod_Type":"Personalized_CollectionMultiSKU_CR"
+	     "ProductIDOrName":"103647"
+     },
+	{ 
+	    "prod_Type":"Personalized_CollectionMultiSKU_CR_Baby"
+	     "ProductIDOrName":"103647"
+     },
+     { 
+	    "prod_Type":"Personalized_CollectionMultiSKU_CR_CA"
+	     "ProductIDOrName":"103647"
+     },
+	{ 
+	    "prod_Type":"Registry"
+	     "ProductIDOrName":"1040600635"
+     },
+     { 
+	    "prod_Type":"Registry_Baby"
+	     "ProductIDOrName":"1041079683"
+     },
+     { 
+	    "prod_Type":"Registry_CA"
+	     "ProductIDOrName":"1018779706"
+     },
+     { 
+	    "prod_Type":"ExpandableColorMultiSKU_Baby"
+	     "ProductIDOrName":"3260173"
+     },
+      { 
+	    "prod_Type":"MultiSKU_Size_US"
+	     "ProductIDOrName":"3249612"
+     },
+     { 
+	    "prod_Type":"MultiSKU_Size_Baby"
+	     "ProductIDOrName":"202861"
+     },
+     { 
+	    "prod_Type":"MultiSKU_Size_CA"
+	     "ProductIDOrName":"3247644"
+     },
+     { 
+	    "prod_Type":"MultiSKU_SizeColor_US"
+	     "ProductIDOrName":"3207593"
+     },
+     { 
+	    "prod_Type":"MultiSKU_SizeColor_Baby"
+	     "ProductIDOrName":"129265"
+     },
+     { 
+	    "prod_Type":"MultiSKU_SizeColor_CA"
+	     "ProductIDOrName":"3207593"
+     },
+     { 
+	    "prod_Type":"MultiSKU_QuickView"
+	     "ProductIDOrName":"3247817"
+     },
+     { 
+	    "prod_Type":"MultiSKU_QuickView_Baby"
+	     "ProductIDOrName":"202415"
+     },
+      { 
+	    "prod_Type":"MultiSKU_QuickView_BabyNonInternationalRestricted"
+	     "ProductIDOrName":"201410"
+     },
+     { 
+	    "prod_Type":"MultiSKU_QuickView_CA"
+	     "ProductIDOrName":"3247817"
+     },
+     { 
+	    "prod_Type":"ExpandableColorMultiSKU_Baby"
+	     "ProductIDOrName":"3260173"
+     },
+     { 
+	    "prod_Type":"ExpandableColorMultiSKU"
+	     "ProductIDOrName":"3260173"
+     },
+     { 
+	    "prod_Type":"VideoandGuidesAndAdvice"
+	     "ProductIDOrName":"Towel"
+     },
+     { 
+	    "prod_Type":"VideoandGuidesAndAdvice_Baby"
+	     "ProductIDOrName":"towels"
+     },
+     
+     { 
+	    "prod_Type":"BopusDisabled"
+	     "ProductIDOrName":"13298211"
+     },
+     { 
+	    "prod_Type":"BopusDisabled_Baby"
+	     "ProductIDOrName":"41923405"
+     },
+     { 
+	    "prod_Type":"BopusDisabled_CA"
+	     "ProductIDOrName":"17108867"
+     },
+      { 
+	    "prod_Type":"RegularSFL1"
+	     "ProductIDOrName":"1016050075"
+     },
+      { 
+	    "prod_Type":"RegularSFL1_Baby"
+	     "ProductIDOrName":"1012828969"
+     },
+      { 
+	    "prod_Type":"RegularSFL1_CA"
+	     "ProductIDOrName":"1016050075"
+     },
+     { 
+	    "prod_Type":"RegularSFL2"
+	     "ProductIDOrName":"1041017142"
+     },
+      { 
+	    "prod_Type":"RegularSFL2_Baby"
+	     "ProductIDOrName":"1013346097"
+     },
+      { 
+	    "prod_Type":"RegularSFL2_CA"
+	     "ProductIDOrName":"1041017142"
+     },
+     { 
+	    "prod_Type":"RegularSFL3"
+	     "ProductIDOrName":"1015961600"
+     },
+      { 
+	    "prod_Type":"RegularSFL3_Baby"
+	     "ProductIDOrName":"1014960376"
+     },
+      { 
+	    "prod_Type":"RegularSFL3_CA"
+	     "ProductIDOrName":"1015961600"
+     },
+     { 
+	    "prod_Type":"RegularSFL4"
+	     "ProductIDOrName":"3250537"
+     },
+      { 
+	    "prod_Type":"RegularSFL4_Baby"
+	     "ProductIDOrName":"104305"
+     },
+      { 
+	    "prod_Type":"RegularSFL4_CA"
+	     "ProductIDOrName":"3250537"
+     },
+     { 
+	    "prod_Type":"RegularSFL5"
+	     "ProductIDOrName":"3250540"
+     },
+      { 
+	    "prod_Type":"RegularSFL5_Baby"
+	     "ProductIDOrName":"1018488507"
+     },
+      { 
+	    "prod_Type":"RegularSFL5_CA"
+	     "ProductIDOrName":"3250540"
+     },
+     { 
+	    "prod_Type":"RegularSFL6"
+	     "ProductIDOrName":"1012076770"
+     },
+      { 
+	    "prod_Type":"RegularSFL6_Baby"
+	     "ProductIDOrName":"1017848810"
+     },
+      { 
+	    "prod_Type":"RegularSFL6_CA"
+	     "ProductIDOrName":"1012076770"
+     },
+     { 
+	    "prod_Type":"RegularSFL7"
+	     "ProductIDOrName":"3250542"
+     },
+      { 
+	    "prod_Type":"RegularSFL7_Baby"
+	     "ProductIDOrName":"1041272084"
+     },
+      { 
+	    "prod_Type":"RegularSFL7_CA"
+	     "ProductIDOrName":"3250542"
+     },
+     { 
+	    "prod_Type":"RegularSFL8"
+	     "ProductIDOrName":"1014778888"
+     },
+      { 
+	    "prod_Type":"RegularSFL8_Baby"
+	     "ProductIDOrName":"1018013452"
+     },
+      { 
+	    "prod_Type":"RegularSFL8_CA"
+	     "ProductIDOrName":"1014778888"
+     },
+     { 
+	    "prod_Type":"RegularSFL9"
+	     "ProductIDOrName":"1014574778"
+     },
+      { 
+	    "prod_Type":"RegularSFL9_Baby"
+	     "ProductIDOrName":"1012531796"
+     },
+      { 
+	    "prod_Type":"RegularSFL9_CA"
+	     "ProductIDOrName":"1014574778"
+     },
+     { 
+	    "prod_Type":"BOPUS_ShipThisOOS"
+	     "ProductIDOrName":"16757675"
+     },
+      { 
+	    "prod_Type":"BOPUS_ShipThisOOS_Baby"
+	     "ProductIDOrName":"41599730"
+     },
+      { 
+	    "prod_Type":"BOPUS_ShipThisOOS_CA"
+	     "ProductIDOrName":"14574778"
+     },
+     { 
+	    "prod_Type":"VDC_ShipThisOOS"
+	     "ProductIDOrName":"1018443490"
+     },
+      { 
+	    "prod_Type":"VDC_ShipThisOOS_Baby"
+	     "ProductIDOrName":"1018541645"
+     },
+      { 
+	    "prod_Type":"VDC_ShipThisOOS_CA"
+	     "ProductIDOrName":"1041077115"
+     },
+    
+     { 
+	    "prod_Type":"OutOfStockSingleSKUBaby"
+	     "ProductIDOrName":"1046460806"
+     },
+     { 
+	    "prod_Type":"OutOfStockMultiSKUBaby"
+	     "ProductIDOrName":"3270893"
+     },
+     { 
+	    "prod_Type":"OutOfStockLTLBaby"
+	     "ProductIDOrName":"1040926148"
+     },
+     { 
+	    "prod_Type":"OutOfStockLeadBaby"
+	     "ProductIDOrName":"42074304"
+     },
+     { 
+	    "prod_Type":"OutOfStockCollectionBaby"
+	     "ProductIDOrName":"218260"
+     },
+     { 
+	    "prod_Type":"OutOfStockSingleSKUCA"
+	     "ProductIDOrName":"17876171"
+     },
+     { 
+	    "prod_Type":"OutOfStockMultiSKUCA"
+	     "ProductIDOrName":"3257932"
+     },
+     { 
+	    "prod_Type":"OutOfStockLeadCA"
+	     "ProductIDOrName":"42074304"
+     },
+     { 
+	    "prod_Type":"OutOfStockCollectionCA"
+	     "ProductIDOrName":"108589"
+     },
+     { 
+	    "prod_Type":"OutOfStockSingleSKU"
+	     "ProductIDOrName":"1041599730"
+     },
+     { 
+	    "prod_Type":"OutOfStockMultiSKU"
+	     "ProductIDOrName":"3257932"
+     },
+     { 
+	    "prod_Type":"OutOfStockLTL"
+	     "ProductIDOrName":"1043616466"
+     },
+     { 
+	    "prod_Type":"OutOfStockLead"
+	     "ProductIDOrName":"42074304"
+     },
+     { 
+	    "prod_Type":"OutOfStockCollection"
+	     "ProductIDOrName":"108589"
+     },
+     { 
+	    "prod_Type":"One_Character"
+	     "ProductIDOrName":"T"
+     },
+     { 
+	    "prod_Type":"Two_Character"
+	     "ProductIDOrName":"Tw"
+     },
+     { 
+	    "prod_Type":"Zip_Restricted"
+	     "ProductIDOrName":"1041887981"
+     },
+     { 
+	    "prod_Type":"Zip_Restricted_Baby"
+	     "ProductIDOrName":"1041887981"
+     },
+     { 
+	    "prod_Type":"Expedited_Restricted"
+	     "ProductIDOrName":"1041887981"
+     },
+     { 
+	    "prod_Type":"Expedited_RestrictedBaby"
+	     "ProductIDOrName":"1041887981"
+     },
+     { 
+	    "prod_Type":"invalid_product"
+	     "ProductIDOrName":"abcdef@!123$$"
+     },
+      { 
+	    "prod_Type":"InternationalRestrictedMultiSKU_US"
+	     "ProductIDOrName":"43093465"
+     },
+     { 
+	    "prod_Type":"InternationalRestrictedMultiSKU_Baby"
+	     "ProductIDOrName":"40286341"
+     },
+     { 
+	    "prod_Type":"MultiSKUColorAndSize_US"
+	     "ProductIDOrName":"43093465"
+     },
+     { 
+	    "prod_Type":"MultiSKUColorAndSize_Baby"
+	     "ProductIDOrName":"40286341"
+     },
+      { 
+	    "prod_Type":"MultiSKUColorAndSize_CA"
+	     "ProductIDOrName":"43093465"
+     },
+     { 
+	    "prod_Type":"ItemHavingSwatchesMoreThan7_US"
+	     "ProductIDOrName":"214673"
+     },
+     { 
+	    "prod_Type":"ItemHavingSwatchesMoreThan7_Baby"
+	     "ProductIDOrName":"3240357"
+     },
+     { 
+	    "prod_Type":"ItemHavingSwatchesMoreThan7_CA"
+	     "ProductIDOrName":"214673"
+     },
+     { 
+	    "prod_Type":"CollectionItemHavingSwatchesMoreThan11WithSizeDropDown_US"
+	     "ProductIDOrName":"211236"
+     },
+     { 
+	    "prod_Type":"CollectionItemHavingSwatchesMoreThan11WithSizeDropDown_Baby"
+	     "ProductIDOrName":"213780"
+     },
+     { 
+	    "prod_Type":"CollectionItemHavingSwatchesMoreThan11WithSizeDropDown_CA"
+	     "ProductIDOrName":"211236"
+     },
+     { 
+	    "prod_Type":"ItemHavingSwatchesEqualTo5_US"
+	     "ProductIDOrName":"210878"
+     },
+     { 
+	    "prod_Type":"ItemHavingSwatchesEqualTo5_Baby"
+	     "ProductIDOrName":"117132"
+     },
+     { 
+	    "prod_Type":"ItemHavingSwatchesEqualTo5_CA"
+	     "ProductIDOrName":"210878"
+     },
+     { 
+	    "prod_Type":"ItemHavingSwatchesEqualTo7_US"
+	     "ProductIDOrName":"212972"
+     },
+     { 
+	    "prod_Type":"ItemHavingSwatchesEqualTo7_Baby"
+	     "ProductIDOrName":"3241885"
+     },
+     { 
+	    "prod_Type":"ItemHavingSwatchesEqualTo7_CA"
+	     "ProductIDOrName":"212972"
+     },
+     { 
+	    "prod_Type":"ItemHavingSwatchesLessThan5_US"
+	     "ProductIDOrName":"214031"
+     },
+     { 
+	    "prod_Type":"ItemHavingSwatchesLessThan5_Baby"
+	     "ProductIDOrName":"3246372"
+     },
+     { 
+	    "prod_Type":"ItemHavingSwatchesLessThan5_CA"
+	     "ProductIDOrName":"110261"
+     },
+     { 
+	    "prod_Type":"PartialSearchKeywordHavingSwatches_US"
+	     "ProductIDOrName":"Wamsutta Thread Count Printed Sheet Set"
+     },
+     { 
+	    "prod_Type":"PartialSearchKeywordHavingSwatches_Baby"
+	     "ProductIDOrName":"Wamsutta Thread Count Printed Sheet Set"
+     },
+     { 
+	    "prod_Type":"PartialSearchKeywordHavingSwatches_CA"
+	     "ProductIDOrName":"Wamsutta Thread Count Printed Sheet Set"
+     },
+     { 
+	    "prod_Type":"ItemHavingFinishSwatches_US"
+	     "ProductIDOrName":"41135266"
+     },
+     { 
+	    "prod_Type":"ItemHavingFinishSwatches_Baby"
+	     "ProductIDOrName":"41135266"
+     },
+     { 
+	    "prod_Type":"ItemHavingFinishSwatches_CA"
+	     "ProductIDOrName":"41135266"
+     },
+     { 
+	    "prod_Type":"AccessoryChildItemHavingColorSwatches_US"
+	     "ProductIDOrName":"205256"
+     },
+     { 
+	    "prod_Type":"AccessoryChildItemHavingColorSwatches_Baby"
+	     "ProductIDOrName":"3240016"
+     },
+     { 
+	    "prod_Type":"AccessoryChildItemHavingColorSwatches_CA"
+	     "ProductIDOrName":"205256"
+     },
+     { 
+	    "prod_Type":"ItemColorSwatch_US"
+	     "ProductIDOrName":"206362"
+     },
+     { 
+	    "prod_Type":"ItemColorSwatch_Baby"
+	     "ProductIDOrName":"3257591"
+     },
+     { 
+	    "prod_Type":"ItemColorSwatch_CA"
+	     "ProductIDOrName":"3243605"
+     },
+     { 
+	    "prod_Type":"EverlivingProduct"
+	     "ProductIDOrName":"1011269699"
+     },
+     { 
+	    "prod_Type":"ProductWithSurcharge"
+	     "ProductIDOrName":"1017261665"
+     },
+     { 
+	    "prod_Type":"ProductWithOmniProm123Attached"
+	     "ProductIDOrName":"1015855851"
+     },
+     { 
+	    "prod_Type":"NotReserveOnline_BOPUS_US"
+	     "ProductIDOrName":"1010162424"
+     },
+     { 
+	    "prod_Type":"NotReserveOnline_BOPUS_Baby"
+	     "ProductIDOrName":"1016683930"
+     },
+     { 
+	    "prod_Type":"NotReserveOnline_BOPUS_CA"
+	     "ProductIDOrName":"1018612020"
+     },   
+     { 
+	    "prod_Type":"OutOfStock_BOPUS_US"
+	     "ProductIDOrName":"1010162424"
+     },
+     { 
+	    "prod_Type":"OutOfStock_BOPUS_Baby"
+	     "ProductIDOrName":"1016683930"
+     },
+     { 
+	    "prod_Type":"OutOfStock_BOPUS_CA"
+	     "ProductIDOrName":"1018612020"
+     },
+      { 
+	    "prod_Type":"LowStockQuantity1_BOPUS_US"
+	     "ProductIDOrName":"1015043989"
+     },
+     { 
+	    "prod_Type":"LowStockQuantity1_BOPUS_Baby"
+	     "ProductIDOrName":"1016683930"
+     },
+     { 
+	    "prod_Type":"LowStockQuantity1_BOPUS_CA"
+	     "ProductIDOrName":"1015043989"
+     },
+     { 
+	    "prod_Type":"LTLSingleSKU_US"
+	     "ProductIDOrName":"1045481307"
+     },
+     { 
+	    "prod_Type":"LTLMultiSKUColor_US"
+	     "ProductIDOrName":"3166340"
+     },
+     { 
+	    "prod_Type":"LTLAccessoriesLeadMultiSKUSizeColor_US"
+	     "ProductIDOrName":"208220"
+     },
+     { 
+	    "prod_Type":"LTLAccessoriesChildSingleSKU_US"
+	     "ProductIDOrName":"208220"
+     },
+     { 
+	    "prod_Type":"LTLCollectionChildMultiSKUColorSize_US"
+	     "ProductIDOrName":"211046"
+     },
+     { 
+	    "prod_Type":"LTLSingleSKU_Baby"
+	     "ProductIDOrName":"1041010945"
+     },
+     { 
+	    "prod_Type":"LTLMultiSKUColor_Baby"
+	     "ProductIDOrName":"3166340"
+     },
+     { 
+	    "prod_Type":"LTLAccessoriesLeadMultiSKUSizeColor_Baby"
+	     "ProductIDOrName":"208220"
+     },
+     { 
+	    "prod_Type":"LTLAccessoriesChildSingleSKU_Baby"
+	     "ProductIDOrName":"208220"
+     },
+     { 
+	    "prod_Type":"LTLCollectionChildMultiSKUColorSize_Baby"
+	     "ProductIDOrName":"211046"
+     },
+     { 
+	    "prod_Type":"LTLSingleSKU_NoDSLOption_US"
+	     "ProductIDOrName":"1043823789"
+     },
+     { 
+	    "prod_Type":"LTLSingleSKU_NoDSLOption_Baby"
+	     "ProductIDOrName":"1042118329"
+     },
+     { 
+	    "prod_Type":"MultiSKUSizeColor_BOPUS_US"
+	     "ProductIDOrName":"3207593"
+     },
+     { 
+	    "prod_Type":"MultiSKUSizeColor_BOPUS_Baby"
+	     "ProductIDOrName":"129265"
+     },
+     { 
+	    "prod_Type":"MultiSKUSizeColor_BOPUS_CA"
+	     "ProductIDOrName":"3207593"
+     },
+     { 
+	    "prod_Type":"AccessorySSWP_BOPUS_US"
+	     "ProductIDOrName":"131829"
+     },
+     { 
+	    "prod_Type":"AccessorySSWP_BOPUS_Baby"
+	     "ProductIDOrName":"131829"
+     },
+     { 
+	    "prod_Type":"AccessorySSWP_BOPUS_CA"
+	     "ProductIDOrName":"122118"
+     },
+	 { 
+	    "prod_Type":"StoresStockNotAvailable_BOPUS_US"
+	     "ProductIDOrName":"1018500507"
+     },
+	 { 
+	    "prod_Type":"StoresStockNotAvailable_BOPUS_Baby"
+	     "ProductIDOrName":"1018500507"
+     },
+	 { 
+	    "prod_Type":"StoresStockNotAvailable_BOPUS_CA"
+	     "ProductIDOrName":"1018500507"
+     },
+     
+     { 
+	    "prod_Type":"SDDSingleSKU"
+	     "ProductIDOrName":"1010764122"
+     },
+     { 
+	    "prod_Type":"SDDSingleSKUBaby"
+	     "ProductIDOrName":"1012531788"
+	     },
+     { 
+	    "prod_Type":"SDDMultiSKU"
+	     "ProductIDOrName":"116693"
+     },
+    
+     { 
+	    "prod_Type":"SDDLeadSKU"
+	     "ProductIDOrName":"3247951"
+     },     
+     { 
+	    "prod_Type":"SingleSKUAbove49_US"
+	     "ProductIDOrName":"43227778"
+     },
+       { 
+	    "prod_Type":"SingleSKUAbove49_Baby"
+	     "ProductIDOrName":"18013452"
+     },
+      { 
+	    "prod_Type":"SingleSKUAbove49_CA"
+	     "ProductIDOrName":"14185216"
+     },
+      { 
+	    "prod_Type":"LTLSingleSKUAbove49_US"
+	     "ProductIDOrName":"1043478958"
+     },
+     { 
+	    "prod_Type":"LTLSingleSKUAbove49_Baby"
+	     "ProductIDOrName":"1040926148"
+     },
+      { 
+	    "prod_Type":"MultiSKURangeAboveAndBelow49_US"
+	     "ProductIDOrName":"3275249"
+     },
+       { 
+	    "prod_Type":"MultiSKURangeAboveAndBelow49_Baby"
+	     "ProductIDOrName":"3275249"
+     },
+       { 
+	    "prod_Type":"MultiSKURangeAboveAndBelow49_CA"
+	     "ProductIDOrName":"3270936"
+     },
+      { 
+	    "prod_Type":"CollectionProductRangeAboveAndBelow49_US"
+	     "ProductIDOrName":"217099"
+     },
+      { 
+	    "prod_Type":"CollectionProductRangeAboveAndBelow49_Baby"
+	     "ProductIDOrName":"217099"
+     },
+      { 
+	    "prod_Type":"CollectionProductRangeAboveAndBelow49_CA"
+	     "ProductIDOrName":"211236"
+     },
+     { 
+	    "prod_Type":"CollectionProductRangeBelow49_US"
+	     "ProductIDOrName":"123576"
+     },
+      { 
+	    "prod_Type":"CollectionProductRangeBelow49_Baby"
+	     "ProductIDOrName":"219818"
+     },
+      { 
+	    "prod_Type":"CollectionProductRangeBelow49_CA"
+	     "ProductIDOrName":"105406"
+     },
+      { 
+	    "prod_Type":"AccessorySingleSKUAbove49_US"
+	     "ProductIDOrName":"3252219"
+     },
+       { 
+	    "prod_Type":"AccessorySingleSKUAbove49_Baby"
+	     "ProductIDOrName":"3252219"
+     },
+       { 
+	    "prod_Type":"AccessorySingleSKUAbove49_CA"
+	     "ProductIDOrName":"3243657"
+     },
+     { 
+	    "prod_Type":"AccessoryMultiSKURangeAboveAndBelow49_US"
+	     "ProductIDOrName":"3257873"
+     },
+      { 
+	    "prod_Type":"AccessoryMultiSKURangeAboveAndBelow49_Baby"
+	     "ProductIDOrName":"3257873"
+     },
+      { 
+	    "prod_Type":"AccessoryMultiSKURangeAboveAndBelow49_CA"
+	     "ProductIDOrName":"3257873"
+     },
+     {   
+	     "prod_Type":"WithTwoLetters"
+	     "ProductIDOrName":"To"
+	},
+	 {   
+	     "prod_Type":"WithTwoKeywords"
+	     "ProductIDOrName":"Red Toy"
+	},
+	
+	 {   
+	     "prod_Type":"WithThreeKeywords"
+	     "ProductIDOrName":"Red Black Towel"
+	},
+	
+	{   
+	     "prod_Type":"Thesaurus1"
+	     "ProductIDOrName":"Turner"
+	},
+	{   
+	     "prod_Type":"Thesaurus2"
+	     "ProductIDOrName":"Spatula"
+	},
+	{   
+	     "prod_Type":"WithTwoLetter"
+	     "ProductIDOrName":"Sh"
+	},	
+	
+]
+
+"creditcarddata":
+[
+	{   
+	    "CardSelector":"First"
+		"CardType":"Discover"
+		"CardNumber":"6011431829443952"
+		"SecurityCode":"123"
+	},
+	
+	{   
+	    "CardSelector":"Second"
+		"CardType":"Visa"
+		"CardNumber":"4556378665181210"
+		"SecurityCode":"123"
+	},
+	{   
+	    "CardSelector":"VBV"
+		"CardType":"Visa"
+		"CardNumber":"4556378665181210"
+		"SecurityCode":"123"
+	},
+	{   
+	    "CardSelector":"VBVAuthFail"
+		"CardType":"Visa"
+		"CardNumber":"4556378665181210"
+		"SecurityCode":"123"
+	},
+	{   
+	    "CardSelector":"VBVCyberAuth-U-Fail"
+		"CardType":"Visa"
+		"CardNumber":"4000000000000010"
+		"SecurityCode":"123"
+	},
+	{   
+	    "CardSelector":"VBVAuthTimeout"
+		"CardType":"Visa"
+		"CardNumber":"4556378665181210"
+		"SecurityCode":"123"
+	},
+	{   
+	    "CardSelector":"VBVLookupTimeout"
+		"CardType":"Visa"
+		"CardNumber":"4556378665181210"
+		"SecurityCode":"123"
+	},
+	{   
+	    "CardSelector":"VBVSign-A-Fail"
+		"CardType":"Visa"
+		"CardNumber":"4000000000000432"
+		"SecurityCode":"123"
+	},
+	{   
+	    "CardSelector":"VBVSign-U-Fail"
+		"CardType":"Visa"
+		"CardNumber":"4000000000000606"
+		"SecurityCode":"123"
+	},
+	{   
+	    "CardSelector":"VBVSignAuthFail"
+		"CardType":"Visa"
+		"CardNumber":"4000000000000838"
+		"SecurityCode":"123"
+	},
+	{   
+	    "CardSelector":"VBVRefreshFail"
+		"CardType":"Visa"
+		"CardNumber":"4000000000000002"
+		"SecurityCode":"123"
+	},
+]
+
+"Gift_Card":
+[
+	
+	{   
+		"GiftCardDesc":"First"
+		"GiftCardNumber":"7777007222933267"
+		"GiftCardPin":"61609099"
+	},
+	{   
+		"GiftCardDesc":"Second"
+		"GiftCardNumber":"7777007222894986"
+		"GiftCardPin":"61609099"
+	},
+	{   
+		"GiftCardDesc":"Third"
+		"GiftCardNumber":"7777007222894986" 
+		"GiftCardPin":"61609099"
+	},
+	{   
+		"GiftCardDesc":"Fourth"
+		"GiftCardNumber":"7777007222933267"
+		"GiftCardPin":"61609099"
+	},
+	{   
+		"GiftCardDesc":"Fifth"
+		"GiftCardNumber":"7777007222894986"
+		"GiftCardPin":"61609099"
+	},
+	{   
+		"GiftCardDesc":"Sixth"
+		"GiftCardNumber":"7777007222933267"
+		"GiftCardPin":"33313123"
+	},
+	{   
+		"GiftCardDesc":"Seventh"
+		"GiftCardNumber":"7777007222894986"
+		"GiftCardPin":"61609099"
+	},
+	{   
+		"GiftCardDesc":"Eighth"
+		"GiftCardNumber":"7777007222908934"
+		"GiftCardPin":"25936075"
+	},
+	{   
+		"GiftCardDesc":"Ninth"
+		"GiftCardNumber":"7777007222913588"
+		"GiftCardPin":"15276409"
+	},
+	{   
+		"GiftCardDesc":"Tenth"
+		"GiftCardNumber":"7777007222925669"
+		"GiftCardPin":"11263000"
+	},
+	{   
+		"GiftCardDesc":"Eleventh"
+		"GiftCardNumber":"7777007222793301"
+		"GiftCardPin":"23675945"
+	},
+]
+
+"RegistryData":
+[
+	{
+		"Registry":"First"
+		"RegistryType":"Wedding"
+	},
+	
+	{
+		"Registry":"Second"
+		"RegistryType":"Commitment Ceremony"
+	},
+	
+	{
+		"Registry":"Third"
+		"RegistryType":"Baby"
+	},
+	
+	{
+		"Registry":"Fourth"
+		"RegistryType":"Housewarming"
+	},
+	
+	{
+		"Registry":"Fifth"
+		"RegistryType":"Anniversary"
+	},
+	
+	{
+		"Registry":"Sixth"
+		"RegistryType":"University"
+	},
+	
+	{
+		"Registry":"Seventh"
+		"RegistryType":"Birthday"
+	},
+	
+	{
+		"Registry":"Eight"
+		"RegistryType":"Retirement"
+	},
+	
+	{
+		"Registry":"Ninth"
+		"RegistryType":"Other"
+	},
+
+]
+
+"VDC_LearnMoreMessage":"Item Ships Directly from Vendor"
+"VDC_LearnMoreMessageSecond":"Holiday Shipping Information"
+"VDC_OffsetMessageMultiship":"order by \d\d\/\d\d and get your package by \d\d\/\d\d\. learn more"
+"searchKeyword":"sheets"
+"refinedSearchKeyword":"White Sheets",
+"FriendEmail":"nidhi@gmail.com",
+"FriendEmail_New":"nidhi@mailinator.com",
+"password":"Test@1234",
+"newPassword":"Test1234",
+"confirmPassword":"Test1234",
+"Firstname":"FNUSER",
+"Lastname":"LNUSER",
+"Address1":"Address xyz",
+"Address2":"Address abc",
+"CityName":"San Deigo",
+"CityName1":"Texas",
+"FirstnameIntl":"Deepak",
+"LastnameIntl":"sharma",
+"Address1Intl":"201 Walker St",
+"CityNameIntl":"Townsville",
+"CountryName":"Australia",
+"ZipIntl":"4810",
+"EmailIntl":"ptiwari7@sapient.com",
+"Zip":"92121",
+"PostalCode":"L4B 0A6",
+"StateName":"California",
+"Province":"Ontario",
+"Email":"sample@msn.com",
+"ConfirmEmail":"sample@msn.com",
+"PhoneNumber":"5555555555",
+"PhoneNumberIntl":"(02) 5551 5678",
+"CardType":"Visa",
+"CardMonth":"01",
+"CardMonthIntl":"8",
+"CardYear":"2018"
+"CardNumber":"4000000000000051",
+"CardNumberMaster":"5168434152475040",
+"NameOnCard":"User",
+"Zip_FIS":"08054",
+"Zip_FindInStore":"10001",
+"Company":"amexUS",
+"CountryNameAMEX":"United States",
+"CardNumber_AMEX":"378282246310005",
+"AMEX_Card_Type":"American Express",
+"SecurityCode":"123",
+"SecurityCodeAmex":"1234",
+"EmailUpdate":"sampleupdate@msn.com",
+"FirstnameUpdate":"FNUSERUpdate",
+"LastnameUpdate":"LNUSERUpdate",
+"PasswordUpdate":"Test@123"
+"FaceBookEmail":"AutomationTest4444@rediffmail.com",
+"FaceBookPassword":"Test@1234",
+"Color":"WHITE",
+"DeliveryMethod":"STANDARD",
+"Bedding_Search":"bed",
+"PaypalEmail":"paypalsachinq@yahoo.co.in",
+"ExtraPayPalEmail":"George.rygiel@bedbath.com",
+"ExtraPayPalEmailCA":"paypalsachinqca@yahoo.co.in",
+"PaypalEmailCA":"paypalsachinqca@yahoo.co.in",
+"PaypalPassword":"sachin_26dec@12",
+"ExtraPaypalPassword":"11111111",
+"GiftCardNumber":"9977007222835616",
+"GiftCardPin":"12482843",
+"GiftMessage":"Hey,Happy Birthday!!!",
+"ProductQuantity":"5",
+"PLPSortByValue":"Price - low to high",
+"ValidAddress1CA":"Bankers Hall West Tower",
+"ValidAddress2CA":"888 3 St SW",
+"ValidCityNameCA":"CALGARY",
+"ValidStateNameCA":"Alberta",
+"ValidZipCA":"L4B 0A6",
+"ValidAddress1":"1111 Bagby Street Suite 1950",
+"ValidCityName":"Houston",
+"ValidStateName":"Texas",
+"ValidZip":"77002",
+"ReviewTitle":"Title",
+"ReviewDetailedTextField":"Detailed Text Field",
+"NickName":"NickName",
+"refinedSearchInvalidKeyword":"abcdef",
+"AccessoryProductTitle_US":"Susquehanna Glass Champagne Flutes (Set of 4)",
+"AccessoryProductTitle_Baby":"Susquehanna Glass Champagne Flutes (Set of 4)",
+"AccessoryProductTitle_CA":"Susquehanna Glass Champagne Flutes (Set of 4)",
+"CollectionProductTitle_US":"Bath Sheet",
+"CollectionProductTitle_Baby":"Bath Sheet",
+"CollectionProductTitle_CA":"Bath Sheet",
+"ZipCode":"10522",
+"NewZipCode":"48187",
+"AnotherZipCode":"08073",
+"EditAddressFirstname":"EditAddressFirstname",
+"EditAddressLastname":"EditAddressLastname",
+"newResetpassword":"Admin@123",
+"resetConfirmPassword":"Admin@123",
+"ValidAddress2":"400 Huntington Avenue",
+"ValidCityName2":"BOSTON",
+"ValidStateName2":"Massachusetts",
+"ValidZip2":"02115",
+"ValidAddress1CA2":"4 East St",
+"ValidCityNameCA2":"BETHANY",
+"ValidStateNameCA2":"Ontario",
+"ValidZipCA2":"L0A 1A0",
+"refinedSearchKeywordForPartialResult":"Toe",
+"refinedSearchKeywordForPartialResultUS":"Green Bean Bag",
+"GiftCard25Number":"9977007222835616",
+"GiftCard25Pin":"12482843",
+"BLACK":"BLACK",
+"GiftCardInvalidNumber":"1111111111111111",
+"GiftCardInvalidPin":"43399371",
+"AccessorySingleSKUProductTitle_US":"Water Treatment Additive",
+"AccessorySingleSKUProductTitle_Baby":"Cleaning Solution",
+"AccessorySingleSKUProductTitle_CA":"Cleaning Solution",
+"sorByNewest":"Most Popular",
+"pagFilterValue":"24",
+"CouponEmail":"dsharma324@sapient.com",
+"CouponEmail_CouponWallet":"dsharma324@sapient.com",
+"CountryMexico":"Mexico",
+"StateNameIntl":"South Australia",
+"PaypalCouponEmail":"dsharma324@sapient.com",
+"PaypalCouponPassword":"Test12345",
+"RestrictedCityName":"Bronx",
+"RestrictedStateName":"New York",
+"RestrictedZip":"10453",
+"CartItemFlaggedoff_EmailID":"automation_flaggedoffCartSecond@yahoo.com",
+"CartItemFlaggedoffRegistry_EmailID":"automation_flaggedoffCartRegistry@yahoo.com",
+"SFLItemFlaggedoff_EmailID":"automation_flaggedoffsflSecond@yahoo.com",
+"SFLItemNonBopusFlaggedoff_EmailID":"automation_flaggedoffSFLBopus@yahoo.com",
+"CartItemFlaggedoff_EmailIDBaby":"automationbaby_flaggedoffCart@yahoo.com",
+"CartItemFlaggedoffRegistry_EmailIDBaby":"automationbaby_flaggedoffCartRegistry@yahoo.com",
+"SFLItemFlaggedoff_EmailIDBaby":"automationbaby_flaggedoffsfl@yahoo.com",
+"SFLItemNonBopusFlaggedoff_EmailIDBaby":"automationbaby_flaggedoffSFLBopus@yahoo.com",
+"CartItemFlaggedoff_EmailIDCA":"automationca_flaggedoffCart@yahoo.com",
+"CartItemFlaggedoffRegistry_EmailIDCA":"automationca_flaggedoffCartRegistry@yahoo.com",
+"SFLItemFlaggedoff_EmailIDCA":"automationca_flaggedoffsfl@yahoo.com",
+"SFLItemNonBopusFlaggedoff_EmailIDCA":"automationca_flaggedoffSFLBopus@yahoo.com",
+"CartOOSREgistryItem_US":"automationregistryoos@yahoo.com",
+"CartOOSREgistryItem_Baby":"automationregistryoosbaby@yahoo.com",
+"CartOOSREgistryItem_CA":"automationregistryoosca@yahoo.com",
+"AppointmentZip":"33905",
+"GuestRegistryIdHavingRequiredItems_US1":"520533070",
+"GuestRegistryIdHavingRequiredItems_Baby1":"520556750",
+"GuestRegistryIdHavingRequiredItems_CA1":"203534106",
+"GuestRegistryIdHavingRequiredItems_US":"520533070",
+"GuestRegistryIdHavingRequiredItems_Baby":"520556750",
+"GuestRegistryIdHavingRequiredItems_CA":"520486045",
+"CouponEmailOmniture":"couponuser@gmall.com",
+"Omniture":"no",
+"ZipLowStockQuantity1_US":"10023",
+"ZipLowStockQuantity1_Baby":"10023",
+"ZipLowStockQuantity1_CA":"K2J 4B1",
+"ValidZipCA_ReserveOnline":"C1E0C4",
+"ValidZipCA_NotAvailable":"L6M2Y1",
+"QuebecState":"Quebec",
+"ValidStreetName":"broadway",
+"ValidStreetNameCA":"broadway",
+"OtherZip":"07070",
+"ChallengeQuestion1":"What is the name of your first crush?",
+"ChallengeQuestion2":"What is your favorite hobby?",
+"ChallengeAnswer1":"ABCDE",
+"ChallengeAnswer2":"Sacred Heart",
+"AddressSearchText":"400 400",
+"Latitude_US_SSWP":"34.052235",
+"Longitude_US_SSWP":"-118.243683",
+"Latitude_US_MSWP":"34.052235",
+"Longitude_US_MSWP":"-118.243683",
+"Latitude_US_Accessory":"34.052235",
+"Longitude_US_Accessory":"-118.243683",
+"zip_SSWP_US":"91107",
+"zip_SSWP_Baby":"91107",
+"zip_SSWP_CA":"91107",
+"StoreZip_SSWP_US":"Hastings Village",
+"StoreZip_SSWP_Baby":"Hastings Village",
+"StoreZip_SSWP_CA":"Hastings Village",
+"zip_MSWP_US":"91107",
+"zip_MSWP_Baby":"91107",
+"zip_MSWP_CA":"91107",
+"StoreZip_MSWP_US":"Hastings Village",
+"StoreZip_MSWP_Baby":"Hastings Village",
+"StoreZip_MSWP_CA":"Hastings Village",
+"zip_Accessory_US":"91107",
+"zip_Accessory_Baby":"91107",
+"zip_Accessory_CA":"91107",
+"StoreZip_Accessory_US":"Hastings Village",
+"StoreZip_Accessory_Baby":"Hastings Village",
+"StoreZip_Accessory_CA":"Hastings Village",
+"DefaultRadius_US":"25",
+"DefaultRadius_Baby":"50",
+"DefaultRadius_CA":"100",
+"DefaultUpdatedRadius_US":"50",
+"DefaultUpdatedRadius_Baby":"100",
+"DefaultUpdatedRadius_CA":"200",
+"Longitude_Invalid":"09.000",
+"Latitude_Invalid":"09.000",
+"Latitude_Baby_SSWP":"34.052235",
+"Longitude_Baby_SSWP":"-118.243683",
+"Latitude_Baby_MSWP":"34.052235",
+"Longitude_Baby_MSWP":"-118.243683",
+"Latitude_Baby_Accessory":"34.052235",
+"Longitude_Baby_Accessory":"-118.243683",
+"Latitude_CA_SSWP":"34.052235",
+"Longitude_CA_SSWP":"-118.243683",
+"Latitude_CA_MSWP":"34.052235",
+"Longitude_CA_MSWP":"-118.243683",
+"Latitude_CA_Accessory":"34.052235",
+"Longitude_CA_Accessory":"-118.243683",
+"RegistryNumber2_US":"",
+"RegistryNumber2_Baby":"",
+"RegistryNumber2_CA":"",	
+"RegistryNumber_US":"",
+"RegistryNumber_Baby":"",
+"RegistryNumber_CA":"",
+"AddressSearchTextCompleteUS":"4020 Broadway, New York, NY, 10032",
+"AddressSearchTextCompleteCA":"Ontario 400, Waubaushene, ON, L0K 2C0",
+"CountryName_Aruba":"Aruba",
+"CountryName_Bermuda":"Bermuda",
+"PO_BOX_AddressSearchTextCompleteUS":"PO Box 7",
+"PilotZipUS":"77024",
+"PilotZipBaby":"75201",
+"NonPilotZip":"11111",
+"InCartDisclaimer1":"* price variations may have occurred",
+"InCartDisclaimer2":"* see discount price in cart",
+"InCartLabel":"SEE DISCOUNT PRICE IN CART",
+"InCartLabelMiniCart":"SEE PRICE IN CART",
+"USAddressLine":"4020 Broadway",
+"USZipCode":"10032-1507",
+"USCity":"New York",
+"USState":"New York",
+"CAAddressLine":"400 Waubaushene",
+"CAZipCode":"L0K 2C0",
+"CACity":"Ontario",
+"CAState":"Ontario",
+"FreeShippingBadge1":"some skus eligible for free shipping over $",
+"FreeShippingBadge2":"free shipping on orders over $",
+"FISZipCode":"08054",
+"ValidAddress3":"400 US Highway 46",
+"ValidCityName3":"Totowa",
+"ValidZipBaby":"07512",
+"validStateName1":"New Jersey",
+"ValidAddress4":"100 Mountain Ave",
+"ValidCityName4":"Springfield",
+"ValidZipUS":"07081-1785",
+"validStateName2":"New Jersey",
+"GiftCardNumber2":"7777007222699458",
+"GiftCardPin2":"51052602",
+"GiftCardNumber2Baby":"7777007222546930",
+"GiftCardPin2Baby":"46815906",
+"url_EndPointURL":"http://35.196.48.52",
+"url_EndPointURLPrice":"https://35.196.70.194",
+"url_EndPointURLInventory":"https://35.196.76.156",
+"url_EndPointURLReview":"http://104.196.12.216"
+"url_EndPointURLStore":"http://35.196.62.93",
+"skuID":"sku20",
+"siteID":"site20",
+"ipAddress":"104.196.59.142",
+"port":"9042",
+"ProductName":"Koala",
+"HubURL":"http://localhost:4444/wd/hub"
+"GiftCardNoErrorMessage":"Gift card number can't be blank",
+"GiftCardPINErrorMessage":"Gift card pin can't be blank",
+"chalengeQuestionmsgText":"Set up your challenge questions for more account Privacy.",
+"chalengeQuestionmsgLink":"Start Now",
+"registryTypes":"Select Type,Wedding new,Commitment Ceremony new,Baby new,Housewarming new,Anniversary,College/University,Birthday,Retirement,Other",
+"errorMessageEmailBoxSignIn":"please enter a valid email address",
+"errorMessagePasswordBoxSignIn":"please enter your password",
+"url_EndPointURLRelatedCategory":"http://35.196.115.33",
+"url_EndPointURLCategoryMS":"http://35.196.167.15",
+"FeoStoreId":"3",
+"LoginAPICustomerUserId":"gyaneshpareek@yahoo.com",
+"LoginAPICustomerPassword":"Qwer@123456",
+"LoginAPICustomerUserIdForCreateAccount":"createNewRegistry@sapient.com",
+"LoginAPICustomerPasswordIdForCreateAccount":"Test@1234",
+"LoginAPICustomerUserIdNone":"AutoTest9@AutomationTest.com",
+"LoginAPICustomerPasswordNone":"Hello123",
+"LoginAPICustomerUserIdMultiple":"AutoTest8@AutomationTest.com",
+"LoginAPICustomerPasswordMultiple":"Hello123",
+"url_EndPointURLSession":"https://amer-partner10-qa.apigee.net",
+"url_EndPointURLLogin":"https://amer-partner10-qa.apigee.net",
+"url_EndPointURLCreditCard":"https://amer-partner10-qa.apigee.net",
+"url_EndPointURLStoresByList":"https://35.196.48.52",
+"FeoStoreIds":"1,3"
+"FeoStoreIdsCA":"[1,2,10]"
+"GiftCardBalanceNumberValid":"7777007222855970",
+"GiftCardBalancePinValid":"79780825",
+"LoginUsernameWithChallengeQuestion":"abcde@abcde.com",
+"LoginPasswordWithChallengeQuestion":"Hello123",
+"FeoStoreIdsInvalid":"[11,12,13]",
+"url_EndPointURLFooterComponent":"http://35.196.122.185",
+"LoginDrupalCustomerUserId":"admin",
+"LoginDrupalCustomerPassword":"admin",
+"LoginUsernameForResetPassword":"gyaneshpareek22@gmail.com",
+"LoginPasswordForResetPassword":"Test@1234",
+"ChallengeAnswerFirst":"lhs",
+"ChallengeAnswerSecond":"cricket",
+"CreateUserFirstName":"Fname",
+"CreateUserLastName":"Lname",
+"LoginAPICustomerUserIdToRemove":"AutoTest8@AutomationTest.com",
+"LoginAPICustomerPasswordToRemove":"Hello123"
+"CreateUserPhoneNumber":"9887089896",
+"CreateUserMobileNumber":"8112291003",
+"CreateUserFirstChallengeQuestions":"What is the name of your first school?",
+"CreateUserSecondChallengeQuestions":"What is your favorite hobby?",
+"CreateUserPassword":"Hello123",
+"CreateUserConfirmPassword":"Hello123",
+"CreateUserNumber":"988708989",
+"BuyBuyBabyUserSharedAccountFlagTrueLoginId":"gyanesh@BuyBuyBaby.com",
+"BuyBuyBabyUserSharedAccountFlagTruePasswordId":"Hello1234",
+"BuyBuyBabyUserSharedAccountFlagFalseLoginId":"gyanesh@true.com",
+"BuyBuyBabyUserSharedAccountFlagFalsePasswordId":"Hello1234",
+"BedBathCAUserSharedAccountFlagFalseLoginId":"Test@canada.com",
+"BedBathCAUserSharedAccountFlagFalsePasswordId":"Hello123",
+"promoBannerBodyJson":"[\r\n  {\r\n    \"key\": \"first:PromoBanner\",\r\n    \"params\": {\r\n      \"cat_id\": \"10515\",\r\n      \"type\": \"hero_promo\",\r\n      \"block_id\": \"4786-CMSBlock_52480\"\r\n    }\r\n  }\r\n]",
+"partialBodyJson":"[\r\n  {\r\n    \"key\": \"first:TeaserCol2WithCTAContentOverlay\",\r\n    \"params\": {\r\n      \"id\": \"4873\",\r\n      \"style\": \"\"\r\n    }\r\n  },\r\n  {\r\n    \"key\": \"first:PromoBanner\",\r\n    \"params\": {\r\n      \"cat_id\": \"11115\",\r\n      \"type\": \"hero_promo\",\r\n      \"block_id\": \"4786-CMSBlock_52480\"\r\n    }\r\n  },\r\n  {\r\n    \"key\": \"first:Teaser\",\r\n    \"params\": {\r\n      \"id\": \"2\",\r\n      \"style\": \"left-align\"\r\n    }\r\n  },\r\n  {\r\n    \"key\": \"second:PromoBanner\",\r\n    \"params\": {\r\n      \"cat_id\": \"10515\",\r\n      \"type\": \"hero_promo\",\r\n      \"block_id\": \"4786-CMSBlock_29102\"\r\n    }\r\n  },\r\n  {\r\n    \"key\": \"third:CategoryCopy\",\r\n    \"params\": {\r\n      \"id\": \"4715\",\r\n      \"style\": \"\"\r\n    }\r\n  }\r\n]",
+"successBodyJson":"[\r\n  {\r\n    \"key\": \"first:TeaserCol2WithCTAContentOverlay\",\r\n    \"params\": {\r\n      \"id\": \"4808\",\r\n      \"style\": \"\"\r\n    }\r\n  },\r\n  {\r\n    \"key\": \"first:PromoBanner\",\r\n    \"params\": {\r\n      \"cat_id\": \"10515\",\r\n      \"type\": \"hero_promo\",\r\n      \"block_id\": \"4786-CMSBlock_52480\"\r\n    }\r\n  },\r\n  {\r\n    \"key\": \"first:Teaser\",\r\n    \"params\": {\r\n      \"id\": \"2\",\r\n      \"style\": \"left-align\"\r\n    }\r\n  },\r\n  {\r\n    \"key\": \"second:PromoBanner\",\r\n    \"params\": {\r\n      \"cat_id\": \"10515\",\r\n      \"type\": \"hero_promo\",\r\n      \"block_id\": \"4786-CMSBlock_29102\"\r\n    }\r\n  }\r\n]",
+"ValidJsonResultString":"{\"addItemResults\": [{\"skuId\": \"40497853\",\"prodId\": \"106192\",\"qty\": \"2\",\"price\": \"$29.99\",\"reserveNow\": \"undefined\",\"bts\": \"false\",\"storeId\": \"\",\"favStoreState\": \"null\",\"ltlShipMethod\":\"\",\"refNum\":\"\", \"porchPayLoadJson\":\"\"}]}",
+"ValidJsonResultStringSDDEligible":"{\"addItemResults\": [{\"skuId\": \"43167081\",\"prodId\": \"1043167081\",\"qty\": \"1\",\"price\": \"$20.99\",\"reserveNow\": \"\",\"bts\": \"\",\"storeId\": \"\",\"favStoreState\": \"null\",\"ltlShipMethod\":\"\",\"refNum\":\"\", \"porchPayLoadJson\":\"\"}]}",
+"InvalidJsonResultString":"{\"pricea\": \"INR 6,937\",\"areserveNow\": \"undefined\",\"bts\": \"false\",\"storeId\": \"\",\"favStoreState\": \"null\",\"ltlShipMethod\":\"\",\"refNum\":\"\", \"porchPayLoadJson\":\"\"}]}",
+"InvalidQtyJsonResultString":"{\"addItemResults\": [{\"skuId\": \"46148247\",\"prodId\": \"1046148247\",\"qty\": \"as\",\"price\": \"$29.99\",\"reserveNow\": \"undefined\",\"bts\": \"false\",\"storeId\": \"\",\"favStoreState\": \"null\",\"ltlShipMethod\":\"\",\"refNum\":\"\", \"porchPayLoadJson\":\"\"}]}",
+"InvalidStoreIdJsonResultString":"{\"addItemResults\": [{\"skuId\": \"60512642\",\"prodId\": \"3313235\",\"qty\": \"1\",\"price\": \"INR 6,937\",\"reserveNow\": \"undefined\",\"bts\": \"false\",\"storeId\": \"asgd\",\"favStoreState\": \"null\",\"ltlShipMethod\":\"\",\"refNum\":\"\", \"porchPayLoadJson\":\"\"}]}",
+"InvalidReserveNowJsonResultString":"{\"addItemResults\": [{\"skuId\": \"46148247\",\"prodId\": \"1046148247\",\"qty\": \"1\",\"price\": \"$29.99\",\"reserveNow\": \"@#$%\",\"bts\": \"false\",\"storeId\": \"\",\"favStoreState\": \"null\",\"ltlShipMethod\":\"\",\"refNum\":\"\", \"porchPayLoadJson\":\"\"}]}",
+"RegistryValidJsonResultString":"{\"addItemResults\": [{\"skuId\": \"skuid_value\",\"prodId\": \"productid_value\",\"registryId\": \"registryid_value\",\"qty\": \"1\",\"price\": \"$29.99\",\"reserveNow\": \"undefined\",\"bts\": \"false\",\"storeId\": \"\",\"favStoreState\": \"null\",\"ltlShipMethod\":\"\",\"refNum\":\"\", \"porchPayLoadJson\":\"\"}]}",
+"LoginUsernameforChangePassword":"gyaneshpareek22@gmail.com",
+"LoginPasswordforChangePassword":"Test@1234"
+"LoginNewPasswordforChangePassword":"Hello12345",
+"InsufficientGiftCardBalanceNumber":"7777007222855970",
+"InsufficientGiftCardBalancePin":"79780825",
+"CatalogReferenceId":"47043435",
+"ProductReferenceId":"1047043435",
+"CustomerName":"abcde",
+"ProductName":"Kuhn Rikon 7-Cup Stainless Steel 4th Burner Pot",
+"MyOffersEmailId":"feoffer1@yopmail.com",
+"MyOffersPassword":"Hello123",
+"MyOffersMobileNumber":"9090900909",
+"ApiCategoryId_US":"10517",
+"ApiCategoryId_BABY":"30505",
+"ApiCategoryId_CA":"10517",
+"StateCodeValue":"AB",
+"SecondValidJsonResultString":"{\"addItemResults\": [{\"skuId\": \"44323059\",\"prodId\": \"1044323059\",\"qty\": \"1\",\"price\": \"$29.99\",\"reserveNow\": \"undefined\",\"bts\": \"false\",\"storeId\": \"\",\"favStoreState\": \"null\",\"ltlShipMethod\":\"\",\"refNum\":\"\", \"porchPayLoadJson\":\"\"}]}",
+"ValidTypeMiniCart":"mini",
+"InValidTypeMiniCart":"@#$#",	
+"CollegeCodeValue":"10983"
+"url_EndPointURLSKUDetailBySku":"https://amer-partner10-qa.apigee.net",
+"url_EndPointURLSKUDetailByProduct":"https://amer-partner10-qa.apigee.net",
+"url_EndPointNew":"https://amer-partner10-test.apigee.net",
+"url_EndPointDev":"https://amer-partner10-dev.apigee.net",
+"UpdateFirstName":"Gyanesh",
+"UpdateLastName":"Pareek",
+"UpdateMobileNumber":"9887089896",
+"UpdatePhoneNumber":"8112291003",
+"LoginAPINewCustomerUserId":"AutomationTesting3@Testing.com",
+"LoginAPINewCustomerPassword":"Qwer@12345",
+"LoginUsernameWithNoChallengeQuestion":"gyaneshpareek321@yahoo.com",
+"LoginPasswordWithNoChallengeQuestion":"Hello123",
+"Env_Header":"dev",
+"CMS_Data_id_US":"10001",
+"CMS_Data_id_BABY":"4797",
+"LoginUserNameforConfirmPasswordAPI":"gyaneshpareek22@gmail.com",
+"LoginPasswordforConfirmPasswordAPI":"Test@1234"
+"LoginAPICustomerUserIdForWishList":"pagar2@sapient.com",
+"LoginAPICustomerPasswordForWishList":"Test@1234",
+"LoginAPICustomerUserIdForAddNewAddress":"addNewOne2Address@sapient.com",
+"LoginAPICustomerPasswordForAddNewAddress":"Test@1234",
+"LoginAPICustomerUserIdForEditAddress":"editOne2Address@sapient.com",
+"LoginAPICustomerPasswordForEditAddress":"Test@1234",
+"LoginAPICustomerUserIdForRemoveAddress":"removeOne2Address@sapient.com",
+"LoginAPICustomerPasswordForRemoveAddress":"Test@1234",
+"UsernameChallengeQuestionsExistence":"gyaneshpareek2@yahoo.com",
+"PasswordChallengeQuestionsExistence":"Qwer@12345",
+"UsernameForLogoutApi":"vineet3210@test.com",
+"PasswordForLogoutApi":"Test@1234",
+"UsernameForGetProfileApi":"getprofileuser@testing.com",
+"PasswordForGetProfileApi":"Qwer@12345"
+"UsernameForUpdateProfileApi":"UpdateProfileUser@test.com",
+"PasswordForUpdateProfileApi":"Qwer@12345"
+"GiftCardBalanceRedirectURL":"/store/account/myaccount"
+"IncorrectGiftCardNumber":"7447007222699458",
+"IncorrectGiftCardErrorMsg":"An error occurred while processing your card. Please verify the numbers and try again.",
+"GiftCardNoErrorMessage":"Gift card number can't be blank",
+"GiftCardPINErrorMessage":"Gift card pin can't be blank",
+"AddressBookText":"Choose your preferred billing and shipping addresses for faster checkout",
+"AddAddressPopupLinkUrl":"store/account/address_book#addEntry",
+"EditAddressPopupLinkUrl":"store/account/address_book#editEntry",
+"RemoveAddressPopupLinkUrl":"store/account/address_book#removeEntry",
+"AddressBookLinkUrl":"store/account/address_book"
+"Incorrect_Username":"cabe@sapient.com",
+"Incorrect_Password":"Test@1234567",
+"Creditcardpage_URL":"/store/account/view_credit_card",
+"expectedCardtype":["Select credit card type","Visa","MasterCard","Discover","American Express"],
+"expectedMonths":["Month","01","02","03","04","05","06","07","08","09","10","11","12"],
+"expectedYear":["Year","2017","2018","2019","2020","2021","2022","2023","2024","2025","2026","2027"],
+"expectedErrorMessageonInvalidName":["Please enter at least 4 characters.","Please enter alphabets, digits, period, apostrophe","Please enter at least 4 characters.","Cannot start with a space."],
+"CardHolderName":"BBBUser",
+"ValidVisaCard":"4556378665181210",
+"ValidAmericanExpress":"340000000003961",
+"ValidMasterCard":"5146893798790756",
+"ValidDiscoverCard":"6011431829443952",
+"BillingAddress_CompanyName":"billingCompany"
+"SpecialCharFirstName":"UserFir$tName",
+"InvalidBillingLastName":" lastName",
+"InvalidBillingCity":"C@ity",
+"InvalidBillingZIP":"A0522",
+"InvalidBillingAddress1":"Please enter valid zip code.",
+"Expected_Error_on_CreditCardpage":"There were 1 or more errors. Please correct these errors and try again.",
+"InvalidFirstNameError":"Please enter letters, apostrophes, hyphens, and spaces only.",
+"InvalidLastNameError":"Cannot start with a space.",
+"InvalidStateError":"Please select a state.",
+"InvalidAddressError":"Please enter address 1.",
+"InvalidCityNameError":"Please do not include any special characters.",
+"InvalidZipError":"Please enter valid zip code.",
+"AccountURL":"/store/account/myaccount",
+"AccountLeftNavredirectionURL":"/store/account/",
+"EnterCutomizedText":"Customized",
+"BopusZipCodeUS":"76018"
+"EditAddressFields":
+	{
+		"EditAddressFName":"First Name"	,
+		"EditLastName":"Last Name" ,
+		"EditAddressCompany":"company" ,
+		"EditAddressShiiping":"MAKE PREFERRED SHIPPING ADDRESSS" ,
+		"EditAddressBilling":"MAKE PREFERRED BILLING ADDRESS" ,
+		"EditAddressMailing":"MAKE PREFERRED MAILING ADDRESS" ,
+		"EditAddressLine1":"Address Line 1"	,
+		"EditAddressCity":"City" ,
+		"EditAddressState":"State" ,
+		"EditAddressZip":"Zip" ,
+		"EditAddressSaveChangesBtn":"Save Changes" ,
+		"EditAddressCancelBtn":"Cancel"					
+	},		
+	
+			
+"Correct_Username":"us@rediffmail.com",
+"Correct_Password":"Test@1234",
+"SearchDefaultText":"What can we help you find?",
+"ManageCreditcardpage_URL":"/store/account/view_credit_card",
+"L2CategoryId":"10517",
+"L2CategoryIdWithLessThenDefaultValue":"12022",
+"L2CustomerRatedFilter":"12092",
+"SingleSku_BetheFirstRateAndReview":"10417205471",
+"SingleSku_WasPricingProduct":"10417205471",
+"SingleSku_ShopAllBrandName":"10417205471",
+"SingleSku_VDC":"10417205471",
+"SingleSku_WebCollage":"10417205471",
+"SingleSku_OOS":"10417205471",
+"SingleSku_Accessories":"10417205471",
+"L1CategoryId":"10001",
+"L3CategoryId":"12021",
+"L2CategoryId_4Pagination":"10510",
+"L2CategoryId_NoPagination":"12021", 
+"L1CategoryName":"Home Decor",
+"L2CategoryName":"Decorative Accessories",
+"L3CategoryName":"Toasters & Ovens",
+"L2CategoryId_BreadCrumps":"10505",
+"ContactByEmail":
+	{
+	"subjectCategory":"Product Inquiry" ,
+	"emailMessage":"dasddsadsadsad asdsadda dsadasd dsad sdadasdadsads" ,
+	"firstName":"dasdsad" ,
+	"lastName":"dasdsad" ,
+	"contactType":"email" ,
+	"email":"rpandey25@sapient.com" ,
+	"confirmEmail":"rpandey25@sapient.com" ,
+	"validateCaptcha":"false" ,
+	"captchaAnswer":"EKTYR" ,
+	"contactUsSuccessURL":"atg-rest-ignore-redirect" ,
+	"contactUsErrorURL":"atg-rest-ignore-redirect" ,					
+	},
+	"ContactByPhone":
+	{
+		"subjectCategory":"Product Inquiry" ,
+		"emailMessage":"dasddsadsadsad asdsadda dsadasd dsad sdadasdadsads" ,
+		"firstName":"dasdsad" ,
+		"lastName":"dasdsad" ,
+		"contactType":"phone" ,
+		"phoneNumber":"8983298329" ,
+		"phoneExt":"1234" ,
+		"validateCaptcha":"false" ,
+		"captchaAnswer":"EKTYR" ,
+		"contactUsSuccessURL":"atg-rest-ignore-redirect" ,
+		"contactUsErrorURL":"atg-rest-ignore-redirect" ,
+		"selectedTimeCall":"1.00" ,
+		"amPM":"AM",
+		"selectedTimeZone":"CST",				
+	},
+"LoginAPICustomerUserIdForPreferredShippingAddress":"AutoTest1@AutomationTest.com",
+"LoginAPICustomerPasswordForPreferredShippingAddress":"Hello123",
+"LoginAPICustomerUserIdForPreferredMailingAddress":"AutoTest2@AutomationTest.com",
+"LoginAPICustomerPasswordForPreferredMailingAddress":"Hello123",
+"LoginAPICustomerUserIdForPreferredBillingAddress":"AutoTest3@AutomationTest.com",
+"LoginAPICustomerPasswordPreferredBillingAddress":"Hello123",
+"ProductWithNoRelatedCategory":"1018190540",
+"LoginUsernameData":"testing6@automationtest.com",
+"LoginPasswordData":"Hello123",
+"CreditcardEditPage_URL":"/store/account/view_credit_card",
+"ProductWithRelatedCategory":"1011905145",
+"ProductReferenceIdWithCategoryExist_Baby":"1044688455"
+"url_EndPointURLAtg":"https://104.196.53.219",
+"SFL_Qty":"1",
+"TrackOrderValidOrderNo":"QWE1234356789",
+"TrackOrderInvalidOrderNo":"QW23",
+"TrackOrderValidEmailAddress":"AutoTest5@AutomationTest.com",
+"TrackOrderInvalidEmailAddress":"AutomationTesting",
+"TrackInternationalOrderValidOrderNo":"QWE1234356789",
+"TrackInternationalOrderInvalidOrderNo":"QW",
+"TrackInternationalOrderValidEmailAddress":"AutoTest5@AutomationTest.com",
+"TrackOrderValidUserEmailAddress":"AutoTest5@AutomationTest.com",
+"TrackOrderValidUserPassword":"Qwer@12345",
+"TrackOrderInvalidUserPassword":"Qwwsqdewdq@1232",
+"ProductIdWithNoSimilarOOSSection":"3243370",
+"MSWPProductWithSimilarOOS":"3258956",
+"giftCardBalanceNumberValidsit":"7777007222855970",
+"giftCardBalancePinValidsit":"79780825",
+"CertonaDataProductId_Baby":"3248680",
+"CertonaDataProductId_US":"1011905145",
+"ProductInStock":"3243370",
+"ValidSkuId":"44209018",
+"InValidSkuId":"4420901878",
+"locale":"en",
+"MSWPProductInStock":"3252474",
+"CartPageURL":"/store/cart",
+"L2CategoryId_DynamicPricing":"12016",
+"ProductCollection":"235859",
+"ProductAccessory":"206965",
+"ProductWithCustomerImage":"206965",
+"ProductAccessoryBaby":"3273616",
+"ProductWithCustomerImageBaby":"1020319663",
+"MultiSkuAlternateImage":"3329519",
+"LegacyOrderDetailsofferIDValid":"BBS1835116353",
+"LegacyOrderDetailsofferIDInvalid":"BBS1835116367",
+"LegacyOrderDetailsUserID":"s131yts2at4ma0i56@mailsac.com",
+"LegacyOrderDetailsPassword":"Hello123",
+"ValidStoreDataStoreDetailsWithCommerceItems":"1",
+"InvalidStoreDataStoreDetailsWithCommerceItems":"w#@q",
+"InvalidItemDataStoreDetailsWithCommerceItems":"@#$#@@",
+"CMSContentTitle":"Title Automation Testing",
+"CMSContentBody":"Body Automation Testing",
+"CMSContentProducts":"1234567890",
+"urlSiteCMSExp":"http://35.196.122.185/drupal/node/76",
+"CMSComponentNewText":"<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>"
+"CMSComponentRegion":"Bottom",
+"CMSComponentEntityType":"Product Details (4)",
+"ValidPorchJsonResultString":"{\"addItemResults\": [{\"skuId\": \"40493381\",\"prodId\": \"1040493381\",\"qty\": \"2\",\"price\": \"$29.99\",\"reserveNow\": \"undefined\",\"bts\": \"false\",\"storeId\": \"\",\"favStoreState\": \"null\",\"ltlShipMethod\":\"\",\"refNum\":\"\", \"porchPayLoadJson\":\"\"}]}",
+"ValidLTLJsonResultString":"{\"addItemResults\": [{\"skuId\": \"45481307\",\"prodId\": \"1045481307\",\"qty\": \"2\",\"price\": \"$29.99\",\"reserveNow\": \"undefined\",\"bts\": \"false\",\"storeId\": \"\",\"favStoreState\": \"null\",\"ltlShipMethod\":\"\",\"refNum\":\"\", \"porchPayLoadJson\":\"\"}]}",
+"ValidPorchCartPayLoadResultString":"{\"biSessionId\":\"biSessionId_value\",\"	\":\"postalCode_value\",\"serviceType\":serviceType_value,\"product\":{\"name\":\"Verona Home Nottingham Chesterfield Sofa in Beige\",\"priceShownHigh\":priceShownHigh_value,\"priceShownLow\":priceShownLow_value,\"quantity\":quantity_value,\"sku\":\"skuid_value\",\"url\":\"https:\/\/url_value\/store\/product\/abc\/productId_value?skuId=skuid_value\"}}",
+"orderDetailLoggedInUser_EmailId":"lduseja@sapient.com",
+"orderDetailLoggedInUser_Password":"Sapient123",
+"resetpasswordemailid":"vineet@test.com",
+"ProductInStockBaby":"1045803376",
+"PrefStore_US":"1015",
+"PrefStore_BABY":"3007",
+"PrefStore_CA":"2294",
+
+"RegistryFormDetails":{  
+      "futureShippingDate":"11/11/2019",
+      "guestCount":"30",
+      "eventDate":"01/01/2019",
+      "showerDate":"02/02/2019",
+      "college":"BITS Pilani",
+      "coRegistrant.babyMaidenName":"XYZ",
+      "primaryRegistrant.babyMaidenName":"PQR",
+      "coRegistrant.firstName":"Cofirstname",
+      "coRegistrant.lastName":"Colastname",
+      "babyGender":"S",
+      "babyName":"Nitin",
+      "babyNurseryTheme":"My Baby",     
+      "regBG":"G",
+      "coregBG":"B",       
+   }
+   
+"SingleSkuEverlivingURL":"1014706925",
+"MultiSkuEverlivingURL":"1010790620	",
+"PersonalizedSKUIDAPI_US":"45348242",
+"PersonalizedProductIDAPI_US":"220474",
+"PersonalizedSKUIDAPI_Baby":"60095701",
+"PersonalizedProductIDAPI_Baby":"1060095701",
+"CollectionSkuEverlivingURL":"100146?categoryId=undefined",
+"AccessorySkuEverlivingURL":"111308?categoryId=undefined",
+"FeoSearchKeywordData":
+{
+  "US":[
+ 
+	{
+		"search_keyword":"NormalKeyword"
+		"search_keyword_value":"towel"
+	},
+	{
+		"search_keyword":"RelatedSearchKeyword"
+		"search_keyword_value":"Sheets"
+	},
+	{
+		"search_keyword":"AutoCorrectSearchKeyword"
+		"search_keyword_value":"Sheetsa"
+	},
+	{
+		"search_keyword":"DidYouMeanSearchKeyword"
+		"search_keyword_value":"towe"
+	},
+	{
+		"search_keyword":"ZeroResultSearchKeyword"
+		"search_keyword_value":"xyzjj"	
+	},
+	{
+		"search_keyword":"WithoutPaginationResultSearchKeyword"
+		"search_keyword_value":"sipper"		
+	},
+	{
+		"search_keyword":"ThreeCharacterSearchKeyword"
+		"search_keyword_value":"toy"			
+	},
+	{
+		"search_keyword":"SpecialCharacterSearchKeyword"
+		"search_keyword_value":"Sheets%"			
+	},
+	{
+		"search_keyword":"SpaceCharacterSearchKeyword"
+		"search_keyword_value":"     king           sheet    "				
+	},
+	{
+		"search_keyword":"KingKeyword"
+		"search_keyword_value":"King queen Bedding"
+	},
+	],
+	
+  "BABY":[
+	{
+		"search_keyword":"NormalKeyword"
+		"search_keyword_value":"Sheets"
+	},
+	{
+		"search_keyword":"RelatedSearchKeyword"
+		"search_keyword_value":"Sheets"
+	},
+	{
+		"search_keyword":"AutoCorrectSearchKeyword"
+		"search_keyword_value":"Sheetsa"
+	},
+	{
+		"search_keyword":"DidYouMeanSearchKeyword"
+		"search_keyword_value":"towe"
+	},
+	{
+		"search_keyword":"ZeroResultSearchKeyword"
+		"search_keyword_value":"xyzjj"	
+	},
+	{
+		"search_keyword":"WithoutPaginationResultSearchKeyword"
+		"search_keyword_value":"sipper"		
+	},
+	{
+		"search_keyword":"ThreeCharacterSearchKeyword"
+		"search_keyword_value":"toy"			
+	},
+	{
+		"search_keyword":"SpecialCharacterSearchKeyword"
+		"search_keyword_value":"Sheets%"			
+	},
+	{
+		"search_keyword":"SpaceCharacterSearchKeyword"
+		"search_keyword_value":"     king           sheet    "				
+	},
+	{
+		"search_keyword":"KingKeyword"
+		"search_keyword_value":"King queen Bedding"
+	},
+	]
+}
+"url_EndPointDrupalDev":"http://35.196.122.185",
+"url_EndPointDrupalQA":"http://35.190.161.130",
+"url_EndPointDrupalSit":"http://35.185.15.18",
+"ExperiencePreviewPDPPageSections":"Breadcrumbs,ProductDetails,OpenContainer,PDPNavigations,Overview,WebCollage,Reviews,QnA,SocialAnnex,Certona,Certona,RecentlyViewed,MerchandisingModule,CategoryCopy",
+"ideaBoardInputJSONString":{
+	"ideaBoardRequest": {
+		"ideaBoardId": "ID_IdeaBoard",
+		"ideaBoardName": "NAME_IdeaBoard",
+		"ideaBoardSharedId": "SHAREDID",
+		"ideaBoardItems": [{
+			"skuId": "",
+			"productId": "ID_Product",
+			"ltlShipMethod": "",
+			"referenceNumber": "",
+			"ideaBoardItemId": "ITEM_ID"
+		}],
+		"targetIdeaBoardId":"ID_TARGET",
+		"publicFlag": "false"
+	}
+}
+"cLPPageURL":"store/category/bath-potty/30003"
+"ATCModalSuggestionProductId":
+{
+  "US":[ 
+	{
+		"product_Type":"CertonaSingleSKU"
+		"product_Id":"1011905145"
+	},
+	{
+		"product_Type":"CertonaMultiSku"
+		"product_Id":"3244579"
+	},
+	{
+		"product_Type":"CertonaCollection"
+		"product_Id":"1041074152"
+	},
+	{
+		"product_Type":"CertonaAccessory"
+		"product_Id":"206965"
+	},
+	],
+  "BABY":[
+	{
+		"product_Type":"CertonaSingleSKU"
+		"product_Id":"1011905145"
+	},
+	{
+		"product_Type":"CertonaMultiSku"
+		"product_Id":"3244579"
+	},
+	{
+		"product_Type":"CertonaCollection"
+		"product_Id":"1041074152"
+	},
+	{
+		"product_Type":"CertonaAccessory"
+		"product_Id":"206965"
+	},
+	]
+}
+"JSON_GiftMessageInputPayload":"giftMessageInput={\"commerceItemID\":{\"giftWrapMessage\":\"giftWrapMessage_Value\",\"containsGiftWrap\":\"containsGiftWrap_value\",\"containsGiftWrapMessage\":\"containsGiftWrapMessage_value\"}} ",
+"JSON_MissinggiftWrapMessage":"{\"commerceItemID\":{\"containsGiftWrap\":\"containsGiftWrap_value\",\"containsGiftWrapMessage\":\"containsGiftWrapMessage_value\"}} ",
+"JSON_MissingcontainsGiftWrap":"{\"commerceItemID\":{\"giftWrapMessage\":\" giftWrapMessage_Value\",\"containsGiftWrapMessage\":\"containsGiftWrapMessage_value\"}} ",
+"JSON_MissingContainsGiftWrapMessage":"{\"commerceItemID\":{\"giftWrapMessage\":\" giftWrapMessage_Value\",\"containsGiftWrap\":\"containsGiftWrap_value\"}} ",
+   "ShippingAddressBook":{  
+      "US":[  
+         {  
+            "Valid Shipping Address":{  
+               "FirstName":"Fname",
+               "LastName":"Lname",
+               "CompanyName":"CName",
+               "StreetAddress":"1070 Morris Avenue ",
+               "AptNumber":"12",
+               "City":"Union",
+               "State":"NJ",
+               "ZipCode":"07083",
+               "AddressLine1":"Line1"
+            },
+            "Valid SDD Shipping Address":{  
+                "FirstName":"Fname",
+               "LastName":"Lname",
+               "CompanyName":"CName",
+               "StreetAddress":"800 K Street Northwest ",
+               "AptNumber":"",
+               "City":"Washington",
+               "State":"DC",
+               "ZipCode":"20001",
+               "AddressLine1":"Line1"
+            },
+            
+         }
+      ],
+      "BABY":[  
+         {  
+            "Valid Shipping Address":{  
+               "FirstName":"Fname",
+               "LastName":"Lname",
+               "CompanyName":"CName",
+               "StreetAddress":"1070 Morris Avenue ",
+               "AptNumber":"12",
+               "City":"Union",
+               "State":"NJ",
+               "ZipCode":"07083",
+               "AddressLine1":"Line1"
+            },
+             "Valid SDD Shipping Address":{  
+                "FirstName":"Fname",
+               "LastName":"Lname",
+               "CompanyName":"CName",
+               "StreetAddress":"1070 Morris Avenue ",
+               "AptNumber":"12",
+               "City":"Union",
+               "State":"NJ",
+               "ZipCode":"07083",
+               "AddressLine1":"Line1"
+            },
+            
+            
+         }
+      ],
+      "CA":[  
+         {  
+            
+            
+         }
+      ]
+   }
+"PaymentCardDetails":{  
+      "US":[  
+         {  
+            "Valid VISA":{  
+               "CardNumber":"4556378665181210"
+			   "NameonCard":"TestUser"
+			   "ExpMonth":"02"
+			   "ExpYear":"2020"
+			   "SecurityNumber":"123"
+            },
+            "Valid MASTER":{  
+               "CardNumber":"5146893798790756"
+			   "NameonCard":"TestUser"
+			   "ExpMonth":"02"
+			   "ExpYear":"2020"
+			   "SecurityNumber":"123"
+            },
+            
+           "Valid DISCOVER":{  
+               "CardNumber":"6011431829443952"
+			   "NameonCard":"TestUser"
+			   "ExpMonth":"02"
+			   "ExpYear":"2020"
+			   "SecurityNumber":"123"
+            },
+            
+         }
+      ],
+      "BABY":[  
+         {  
+		 "Valid VISA":{  
+               "CardNumber":"4556378665181210"
+			   "NameonCard":"TestUser"
+			   "ExpMonth":"02"
+			   "ExpYear":"2020"
+			   "SecurityNumber":"123"
+            },
+            "Valid MASTER":{  
+               "CardNumber":"5146893798790756"
+			   "NameonCard":"TestUser"
+			   "ExpMonth":"02"
+			   "ExpYear":"2020"
+			   "SecurityNumber":"123"
+            },
+            
+           "Valid DISCOVER":{  
+               "CardNumber":"6011431829443952"
+			   "NameonCard":"TestUser"
+			   "ExpMonth":"02"
+			   "ExpYear":"2020"
+			   "SecurityNumber":"123"
+            },
+            
+         }
+      ],
+      "CA":[  
+         {  
+         "Valid VISA":{  
+               "CardNumber":"4556378665181210"
+			   "NameonCard":"TestUser"
+			   "ExpMonth":"02"
+			   "ExpYear":"2020"
+			   "SecurityNumber":"123"
+            },
+            "Valid MASTER":{  
+               "CardNumber":"5146893798790756"
+			   "NameonCard":"TestUser"
+			   "ExpMonth":"02"
+			   "ExpYear":"2020"
+			   "SecurityNumber":"123"
+            },
+            
+           "Valid DISCOVER":{  
+               "CardNumber":"6011431829443952"
+			   "NameonCard":"TestUser"
+			   "ExpMonth":"02"
+			   "ExpYear":"2020"
+			   "SecurityNumber":"123"
+            },
+            
+         }
+      ]
+   }
+   
+    "BillingAddressBook":{  
+      "US":[  
+         {  
+            "Valid Billing Address":{  
+               "FirstName":"Fname",
+               "LastName":"Lname",
+               "CompanyName":"CName",
+               "StreetAddress":"1070 Morris Avenue ",
+               "AptNumber":"12",
+               "City":"Union",
+               "State":"NJ",
+               "ZipCode":"07083",
+               "Email":"Testmail@gmail.com"
+            },
+            
+            
+         }
+      ],
+      "BABY":[  
+         {  
+            "Valid Billing Address":{  
+               "FirstName":"Fname",
+               "LastName":"Lname",
+               "CompanyName":"",
+               "StreetAddress":"1070 Morris Avenue ",
+               "AptNumber":"",
+               "City":"Union",
+               "State":"NJ",
+               "ZipCode":"07083",
+            },
+            
+            
+         }
+      ],
+      "CA":[  
+         {  
+            
+            
+         }
+      ]
+   }
+"UserContactEmailid":"UserEmailid@gmail.com",
+"UserContactPhoneNumber":"98989989898",
+"CoRegFirstName":"coUserFname",
+"CoRegLastName":"coUserLname",
+"EventDate":"02/05/2020"
+"NumberofGuest":"25",
+"NewUserpassword":"Hello123",
+"UserContactPhoneNumber":"98989989898",
+"ExperiencePreviewPDPPageSectionsEverlivingSKU":"Breadcrumbs,ProductDetails,OpenContainer,PDPNavigations,Overview,WebCollage,Reviews,QnA,SocialAnnex,Certona,Certona,RecentlyViewed,MerchandisingModule,GooglePLA,CategoryCopy",
+"ExperiencePreviewPDPPageSectionsEverlivingGroup":"Breadcrumbs,ProductDetails,OpenContainer,PDPNavigations,Overview,WebCollage,Reviews,QnA,SocialAnnex,Certona,Certona,RecentlyViewed,MerchandisingModule,GooglePLA,CategoryCopy",
+ "AddMultipleShippingToOrderData":
+		[
+	{   "data_desc":"Valid"
+	    "atg-rest-class-type":"com.bbb.common.vo.CommerceItemShipInfoVO"
+		"shippingGroupType":"hardgoodShippingGroup"	
+		"shippingMethod_R":"lt"
+		"shippingMethod_L":"3g"		
+		"commerceItemId":"DC1ci8694000002"	
+		"shippingGroupName":"PROFILEDC1283970004"
+		"giftMessage":""	
+		"giftWrap":"false"
+		"giftingFlag":"false"	
+		"packAndHoldDate":""			
+	},
+	{   
+	    "data_desc":"Invalid"
+	    "atg-rest-class-type":"@#$#"
+		"shippingGroupType":"#@#"	
+		"shippingMethod":"3##g"	
+		"commerceItemId":"DC#@#$1ci8694000002"	
+		"shippingGroupName":"PR##$OFILEDC1283970004"
+		"giftMessage":"W##$EB"	
+		"giftWrap":"fal#@se"
+		"giftingFlag":"fa#$lse"	
+		"packAndHoldDate":"W##$EB"		
+	}
+],
+   "SaveCreditCardBillingAddressData":
+		[
+	{   "data_desc":"valid"
+		"singlePageCheckoutEnabled":"true"
+		"billingAddressFormHandler.singlePageCheckoutEnabled":"true"
+		"billingAddressFormHandler.userSelectedOption":"NEW"
+		"billingAddressFormHandler.billingAddress.firstName":"Automation"
+		"billingAddressFormHandler.billingAddress.lastName":"Testing"
+		"billingAddressFormHandler.billingAddress.companyName":"CompanySample"
+		"billingAddressFormHandler.billingAddress.address1":"1125 e campbell rd"
+		"billingAddressFormHandler.billingAddress.address2":""
+		"billingAddressFormHandler.billingAddress.address3":""
+		"billingAddressFormHandler.billingAddress.city":"Richardson"
+		"billingAddressFormHandler.billingAddress.state":"TX"
+		"billingAddressFormHandler.billingAddress.country":"US"
+		"billingAddressFormHandler.billingAddress.postalCode":"75081"
+		"billingAddressFormHandler.billingAddress.email":"gyaneshpareek@yahoo.com"
+		"billingAddressFormHandler.billingAddress.phoneNumber":"1234567890"
+		"billingAddressFormHandler.billingAddress.mobileNumber":"1234567890"		
+		"billingAddressFormHandler.confirmedEmail":"gyaneshpareek@yahoo.com"
+		"billingAddressFormHandler.emailSignUp":"false"
+		"billingAddressFormHandler.isShippingRestrictionException":"false"
+		"selectedCreditCardId":"NEW"		
+		"creditCardInfo.nameOnCard":"Automation"		
+		"saveProfileFlag":"false"	
+		"isOrderAmtCoveredByGC":"false"					
+		"creditCardInfo.creditCardType":"Visa"		
+		"creditCardInfo.creditCardNumber":"4242424242424242"					
+		"creditCardInfo.expirationMonth":"12"		
+		"creditCardInfo.expirationYear":"2021"		
+		"creditCardInfo.cardVerificationNumber":"111"		
+	},
+	{   
+	    "data_desc":"invalid"
+		"singlePageCheckoutEnabled":"NEW"
+		"billingAddressFormHandler.singlePageCheckoutEnabled":"N@#$EW"
+		"billingAddressFormHandler.userSelectedOption":"NE#@W"
+		"billingAddressFormHandler.billingAddress.firstName":"Auto@#$#mation"
+		"billingAddressFormHandler.billingAddress.lastName":"Te#@#sting"
+		"billingAddressFormHandler.billingAddress.companyName":"Co@#$mpanySample"
+		"billingAddressFormHandler.billingAddress.address1":"1125$%$# e campbell rd"
+		"billingAddressFormHandler.billingAddress.address2":"#$$"
+		"billingAddressFormHandler.billingAddress.address3":"$%$#"
+		"billingAddressFormHandler.billingAddress.city":"Rich#^$%ardson"
+		"billingAddressFormHandler.billingAddress.state":"T%$%^#X"
+		"billingAddressFormHandler.billingAddress.country":"U#%$%^S"
+		"billingAddressFormHandler.billingAddress.postalCode":"7#%$%5081"
+		"billingAddressFormHandler.billingAddress.email":"gyaneshparee#%#%k@yahoo.com"
+		"billingAddressFormHandler.billingAddress.phoneNumber":"123456#^%%#7890"
+		"billingAddressFormHandler.billingAddress.mobileNumber":"12345##%67890"		
+		"billingAddressFormHandler.confirmedEmail":"gyaneshpareek1@yahoo.com"
+		"billingAddressFormHandler.emailSignUp":"false@#"
+		"billingAddressFormHandler.isShippingRestrictionException":"N#EW"
+		"selectedCreditCardId":"N##EW"		
+		"creditCardInfo.nameOnCard":"NE#$W"		
+		"saveProfileFlag":"NE#W"	
+		"isOrderAmtCoveredByGC":"N#EW"					
+		"creditCardInfo.creditCardType":"VISA1"		
+		"creditCardInfo.creditCardNumber":"41111111111111"					
+		"creditCardInfo.expirationMonth":"15"		
+		"creditCardInfo.expirationYear":"2012"		
+		"creditCardInfo.cardVerificationNumber":"@#$"
+	}
+],
+  
+"addItemToRegistryJSONString":{  
+      "addItemResults":[  
+         {  
+            "isCustomizationRequired":"false",
+            "ltlFlag":"false",
+            "ltlShipMethod":"",
+            "personalizationType":"N",
+            "price":"",
+            "prodId":"",
+            "qty":"",
+            "refNum":"",
+            "registryId":"",
+            "skuId":"",
+            "altNumber":"9891135337",
+            "porchPayLoadJson":""
+         }
+      ],
+      "parentProdId":"",
+      "registryName":"",
+      "isList":"false",
+      "fromComparisonPage":"",
+      "returnURL":""   
+   
+},
+
+
+   "ProductData":{  
+      "Single_SKU":{  
+         "US":{  
+            "skuId":"40762845",
+            "prodId":"1040762845",
+            "parentProdId":"1040762845",
+            "price":"4.49",
+            "qty":"1"
+         },
+         "BABY":{  
+            "skuId":"10401887",
+            "prodId":"1010401887",
+            "parentProdId":"1010401887",
+            "price":"14.99",
+            "qty":"1"
+         },
+         "CA":{  
+            "skuId":"10401887",
+            "prodId":"1010401887",
+            "parentProdId":"1010401887",
+            "price":"14.99",
+            "qty":"1"
+         }
+      },
+      "LTL_SKU":{  
+         "US":{  
+            "skuId":"60798978",
+            "prodId":"1060798978",
+            "parentProdId":"1060798978",
+            "price":"3337.99",
+            "qty":"2",
+            "ltlFlag":"true",
+            "ltlShipMethod":"LT"
+         },
+         "BABY":{  
+            "skuId":"60798978",
+            "prodId":"1060798978",
+            "parentProdId":"1060798978",
+            "price":"3337.99",
+            "qty":"2",
+            "ltlFlag":"true",
+            "ltlShipMethod":"LT"
+         },
+         "CA":{  
+            "skuId":"60798978",
+            "prodId":"1060798978",
+            "parentProdId":"1060798978",
+            "price":"3337.99",
+            "qty":"2",
+            "ltlFlag":"true",
+            "ltlShipMethod":"LT"
+         }
+      },
+      "PERSONALIZED_SKU":{  
+         "US":{  
+            "skuId":"61038080",
+            "prodId":"1061038080",
+            "parentProdId":"1061038080",
+            "price":"57.99",
+            "qty":"3",
+            "personalizationType":"PB",
+            "refNum":"5aa8b51ce0a68854738b4571",
+            "isCustomizationRequired":"true"
+         },
+         "BABY":{  
+             "skuId":"61038080",
+            "prodId":"1061038080",
+            "parentProdId":"1061038080",
+            "price":"57.99",
+            "qty":"3",
+            "personalizationType":"PB",
+            "refNum":"5aa8b51ce0a68854738b4571",
+            "isCustomizationRequired":"true"
+         },
+         "CA":{  
+             "skuId":"61038080",
+            "prodId":"1061038080",
+            "parentProdId":"1061038080",
+            "price":"57.99",
+            "qty":"3",
+            "personalizationType":"PB",
+            "refNum":"5aa8b51ce0a68854738b4571",
+            "isCustomizationRequired":"true"
+         }
+      }
+   }
+
+   
+
+   
+
+  
+  
+"FEOEnvironmentURLs":
+{
+  "sit":[
+ 
+	{   "env_desc":"solr"
+	    "url":"http://104.196.53.219"
+	},
+	{   
+	    "env_desc":"drupal"
+	    "url":"http://35.196.122.185"		
+	},
+	{   "env_desc":"cacheassembler"
+	    "url":"http://35.227.42.10"
+	},
+	{   "env_desc":"ApplicationURL"
+	    "url":"https://sit.bedbathandbeyond.com"
+	}	
+],
+  "qa":[
+ 	{   "env_desc":"solr"
+	    "url":"http://35.196.101.210"
+	},
+	{   
+	    "env_desc":"drupal"
+	    "url":"http://35.190.161.130"		
+	},
+	{   "env_desc":"cacheassembler"
+	    "url":"http://35.196.151.192"
+	},
+		{   "env_desc":"ApplicationURL"
+	    "url":"https://qa.bedbathandbeyond.com"
+	}	
+],	
+  "dev":[
+ 	{   "env_desc":"solr"
+	    "url":"http://35.196.101.210"
+	},
+	{   
+	    "env_desc":"drupal"
+	    "url":"http://35.196.122.185"		
+	},
+	{   "env_desc":"cacheassembler"
+	    "url":"http://35.196.48.52"
+	},
+		{   "env_desc":"ApplicationURL"
+	    "url":"https://dev.bedbathandbeyond.com"
+	}	
+]
+}	
+"EnhanceStoreValidJosnDetails":"[{\"key\":\"abc\",\"params\": {\"type\": \"speciality_codes\"}}]",
+"EnhanceStoreInvalidJsonDetails":"[{\"key\":\"abc\",\"params\": {\"type\": \"@speciality_codes\"}}]",
+"ProductDetailAPI_ProductIdBaby":"1041526125",
+"APIVersion_Flag":"statefull",
+"APIVersionUrlStatefull":"/apis/stateful/v1.0",
+"APIVersionUrlStatefullNot":"/apis/v1.0",
+"APIPaypalloginEmail":"spant@sapient.com",
+"APIPaypalloginPassword":"Qwer@706"
+"APIPaypalloginInternationlEmail":"sandboxpaypal@test.com",
+"APIPaypalloginInternationlPassword":"paypal123"
+"RegistryUserEmail":"RegistryUser@gmail.com"
+"RegistryUserEmailPassword":"Hello123"
+"ValidBopusJsonResultString":"{\"addItemResults\": [{\"skuId\": \"10217962\",\"prodId\": \"100712\",\"qty\": \"2\",\"price\": \"$29.99\",\"reserveNow\": \"undefined\",\"bts\": \"false\",\"storeId\": \"\",\"favStoreState\": \"null\",\"ltlShipMethod\":\"\",\"refNum\":\"\", \"porchPayLoadJson\":\"\"}]}",
+"Env_Flag":"Nonprod",
+"prod_queryParam":"?web3feo=abc"
+"CoRegEmailid":"CoRegEmail@gmail.com"
+}
